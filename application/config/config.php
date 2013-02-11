@@ -14,7 +14,9 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+
+$config['base_url']	= 'http://' . $_SERVER['HTTP_HOST'] . '/godfather/trunk';
+$config['base_path'] = str_replace('\\', '/', realpath(dirname(__FILE__) . '/../..'));
 
 /*
 |--------------------------------------------------------------------------
@@ -359,19 +361,6 @@ $config['rewrite_short_tags'] = FALSE;
 |
 */
 $config['proxy_ips'] = '';
-
-// $config['base_path'] = realpath(dirname(__FILE__) . '/../..');
-$config['base_path'] = str_replace('\\', '/', realpath(dirname(__FILE__) . '/../..'));
-
-if ($_SERVER['SERVER_NAME'] == 'localhost') {
-	if ($_SERVER['SERVER_PORT'] == 80) {
-		$config['base_url'] = 'http://localhost/godfather';
-	} else {
-		$config['base_url'] = 'http://localhost:' . $_SERVER['SERVER_PORT'] . '/godfather';
-	}
-} else if ($_SERVER['SERVER_NAME'] == 'beta.ramatours.com') {
-	$config['base_url'] = 'http://beta.ramatours.com';
-}
 
 /* End of file config.php */
 /* Location: ./application/config/config.php */

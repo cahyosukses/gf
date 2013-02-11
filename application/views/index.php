@@ -60,7 +60,7 @@
 						AjaxParam.city_desc = $(this).val();
 					}
 					
-					$.post(Host.Link + '/welcome/ajax', AjaxParam, function() {
+					$.post(Host.Link + '/index.php/welcome/ajax', AjaxParam, function() {
 						window.location.href = window.location.href;
 					});
 				}
