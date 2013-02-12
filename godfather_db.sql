@@ -3,9 +3,9 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Waktu pembuatan: 12. Februari 2013 jam 06:47
--- Versi Server: 5.1.41
--- Versi PHP: 5.3.1
+-- Generation Time: Feb 12, 2013 at 05:01 PM
+-- Server version: 5.1.41
+-- PHP Version: 5.3.1
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
@@ -22,7 +22,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 -- --------------------------------------------------------
 
 --
--- Struktur dari tabel `city`
+-- Table structure for table `city`
 --
 
 CREATE TABLE IF NOT EXISTS `city` (
@@ -35,42 +35,42 @@ CREATE TABLE IF NOT EXISTS `city` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=28 ;
 
 --
--- Dumping data untuk tabel `city`
+-- Dumping data for table `city`
 --
 
 INSERT INTO `city` (`city_id`, `user_id`, `city`, `city_time`, `city_desc`) VALUES
-(1, 2, 'First', '2013-02-12 08:08:42', '5 Production 20 City = 559 | 455'),
-(2, 2, 'Greenwich', '2013-02-12 07:41:13', 'Truck'),
-(3, 2, 'Brooklyn', '2013-02-12 16:20:21', ''),
-(4, 3, 'First', '2013-02-12 09:38:49', ''),
-(5, 3, 'Greenwich', '2013-02-12 16:15:09', ''),
-(6, 4, 'First', '2013-02-14 00:58:43', 'Truck'),
+(1, 2, 'First', '2013-02-12 17:38:47', '5 Production 20 City = 559 | 455'),
+(2, 2, 'Greenwich', '2013-02-14 08:50:37', ''),
+(3, 2, 'Brooklyn', '2013-02-12 18:37:22', ''),
+(4, 3, 'First', '2013-02-13 15:22:22', ''),
+(5, 3, 'Greenwich', '2013-02-13 03:39:44', ''),
+(6, 4, 'First', '2013-02-14 00:58:43', ''),
 (7, 5, 'First', '2013-02-14 00:44:15', ''),
 (8, 6, 'First', '2013-02-12 23:24:48', ''),
-(9, 7, 'First', '2013-02-12 16:22:04', ''),
-(10, 8, 'First', '2013-02-12 16:02:17', ''),
-(11, 8, 'Greenwich', '2013-02-12 14:00:57', ''),
+(9, 7, 'First', '2013-02-12 20:58:10', ''),
+(10, 8, 'First', '2013-02-12 21:27:37', ''),
+(11, 8, 'Greenwich', '2013-02-13 00:56:46', ''),
 (12, 4, 'Greenwich', '2013-02-13 01:55:34', ''),
-(13, 2, 'Park', '2013-02-12 15:34:44', ''),
-(14, 3, 'Brooklyn', '2013-02-12 16:28:59', ''),
+(13, 2, 'Park', '2013-02-13 02:17:34', ''),
+(14, 3, 'Brooklyn', '2013-02-12 18:21:33', ''),
 (15, 3, 'Park', '2013-02-13 22:06:49', ''),
-(16, 4, 'Brooklyn', '2013-02-12 16:15:29', ''),
-(17, 6, 'Greenwich', '2013-02-12 09:33:35', ''),
-(18, 6, 'Brooklyn', '2013-02-12 16:24:19', ''),
-(19, 6, 'Park', '2013-02-12 09:33:41', ''),
-(20, 2, 'Atlantic', '2013-02-12 09:58:58', ''),
-(21, 5, 'Greenwich', '2013-02-12 10:33:06', ''),
-(22, 5, 'Brooklyn', '2013-02-12 09:43:24', ''),
-(23, 7, 'Greenwich', '2013-02-12 08:08:58', ''),
-(24, 8, 'Park', '2013-02-12 10:00:16', 'Troop'),
-(25, 4, 'Park', '2013-02-12 08:47:02', ''),
-(26, 3, 'Atlantic', '2013-02-12 06:45:51', ''),
-(27, 4, 'Atlantic', '2013-02-12 08:15:32', '');
+(16, 4, 'Brooklyn', '2013-02-12 17:20:26', ''),
+(17, 6, 'Greenwich', '2013-02-12 20:48:51', ''),
+(18, 6, 'Brooklyn', '2013-02-12 20:48:54', ''),
+(19, 6, 'Park', '2013-02-12 18:08:59', ''),
+(20, 2, 'Atlantic', '2013-02-12 20:37:57', ''),
+(21, 5, 'Greenwich', '2013-02-12 18:27:55', ''),
+(22, 5, 'Brooklyn', '2013-02-12 18:28:04', ''),
+(23, 7, 'Greenwich', '2013-02-13 04:01:34', ''),
+(24, 8, 'Park', '2013-02-12 22:11:59', ''),
+(25, 4, 'Park', '2013-02-12 21:03:12', ''),
+(26, 3, 'Atlantic', '2013-02-13 08:12:12', ''),
+(27, 4, 'Atlantic', '2013-02-13 00:40:44', '');
 
 -- --------------------------------------------------------
 
 --
--- Struktur dari tabel `user`
+-- Table structure for table `user`
 --
 
 CREATE TABLE IF NOT EXISTS `user` (
@@ -82,7 +82,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
 
 --
--- Dumping data untuk tabel `user`
+-- Dumping data for table `user`
 --
 
 INSERT INTO `user` (`user_id`, `user_email`, `user_pass`, `user_display`) VALUES
