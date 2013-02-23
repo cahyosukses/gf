@@ -3,17 +3,11 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Feb 22, 2013 at 05:04 PM
+-- Generation Time: Feb 23, 2013 at 05:04 PM
 -- Server version: 5.1.41
 -- PHP Version: 5.3.1
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
-
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
 
 --
 -- Database: `godfather_db`
@@ -39,35 +33,35 @@ CREATE TABLE IF NOT EXISTS `city` (
 --
 
 INSERT INTO `city` (`city_id`, `user_id`, `city`, `city_time`, `city_desc`) VALUES
-(1, 2, 'First', '2013-02-23 03:45:30', '5 Production 20 City = 559 | 455'),
-(2, 2, 'Greenwich', '2013-02-23 02:46:55', ''),
-(3, 2, 'Brooklyn', '2013-02-23 13:55:00', ''),
-(4, 3, 'First', '2013-02-22 18:11:06', ''),
-(5, 3, 'Greenwich', '2013-02-22 18:11:21', ''),
-(6, 4, 'First', '2013-02-23 00:31:00', ''),
-(7, 5, 'First', '2013-02-23 00:48:04', ''),
+(1, 2, 'First', '2013-02-24 03:02:18', '5 Production 20 City = 559 | 455'),
+(2, 2, 'Greenwich', '2013-02-24 10:05:54', ''),
+(3, 2, 'Brooklyn', '2013-02-24 01:24:54', ''),
+(4, 3, 'First', '2013-02-23 21:46:57', ''),
+(5, 3, 'Greenwich', '2013-02-24 02:20:29', ''),
+(6, 4, 'First', '2013-02-24 11:09:56', ''),
+(7, 5, 'First', '2013-02-25 07:16:59', 'Supply'),
 (8, 6, 'First', '2013-02-23 18:52:53', ''),
-(9, 7, 'First', '2013-02-23 03:36:49', ''),
-(10, 8, 'First', '2013-02-22 17:15:10', ''),
-(11, 8, 'Greenwich', '2013-02-22 18:44:28', 'Apartment'),
+(9, 7, 'First', '2013-02-25 08:58:18', ''),
+(10, 8, 'First', '2013-02-23 19:33:54', ''),
+(11, 8, 'Greenwich', '2013-02-23 17:13:07', 'Apartment'),
 (12, 4, 'Greenwich', '2013-02-24 11:28:15', ''),
 (13, 2, 'Park', '2013-02-24 13:17:14', ''),
-(14, 3, 'Brooklyn', '2013-02-22 17:19:39', ''),
+(14, 3, 'Brooklyn', '2013-02-23 17:05:24', ''),
 (15, 3, 'Park', '2013-02-24 03:46:44', ''),
-(16, 4, 'Brooklyn', '2013-02-22 18:42:11', ''),
-(17, 6, 'Greenwich', '2013-02-22 17:59:05', ''),
-(18, 6, 'Brooklyn', '2013-02-22 18:41:20', ''),
-(19, 6, 'Park', '2013-02-23 16:19:55', ''),
-(20, 2, 'Atlantic', '2013-02-23 03:03:50', ''),
-(21, 5, 'Greenwich', '2013-02-22 17:11:33', ''),
-(22, 5, 'Brooklyn', '2013-02-22 17:35:35', ''),
-(23, 7, 'Greenwich', '2013-02-22 18:42:48', 'Apartment'),
-(24, 8, 'Brooklyn', '2013-02-22 17:14:25', 'Apartment'),
-(25, 4, 'Park', '2013-02-22 17:17:33', 'Apartment'),
-(26, 3, 'Atlantic', '2013-02-22 21:09:51', 'Apartment'),
-(27, 4, 'Atlantic', '2013-02-22 17:12:08', 'Apartment'),
-(28, 7, 'Brooklyn', '2013-02-22 17:48:01', 'Apartment'),
-(29, 8, 'Park', '2013-02-22 20:22:57', '');
+(16, 4, 'Brooklyn', '2013-02-23 17:08:19', ''),
+(17, 6, 'Greenwich', '2013-02-23 20:51:47', ''),
+(18, 6, 'Brooklyn', '2013-02-23 17:11:36', ''),
+(19, 6, 'Park', '2013-02-24 02:47:37', ''),
+(20, 2, 'Atlantic', '2013-02-23 22:40:35', ''),
+(21, 5, 'Greenwich', '2013-02-23 17:09:53', ''),
+(22, 5, 'Brooklyn', '2013-02-23 17:42:03', 'Troop'),
+(23, 7, 'Greenwich', '2013-02-23 17:28:02', ''),
+(24, 8, 'Brooklyn', '2013-02-23 17:09:12', 'Apartment'),
+(25, 4, 'Park', '2013-02-23 18:33:31', 'Apartment'),
+(26, 3, 'Atlantic', '2013-02-23 17:05:42', 'Apartment'),
+(27, 4, 'Atlantic', '2013-02-24 05:05:47', 'Apartment'),
+(28, 7, 'Brooklyn', '2013-02-23 17:17:41', 'Apartment'),
+(29, 8, 'Park', '2013-02-23 17:12:03', '');
 
 -- --------------------------------------------------------
 
@@ -95,7 +89,3 @@ INSERT INTO `user` (`user_id`, `user_email`, `user_pass`, `user_display`) VALUES
 (6, 'bungalowq@ymail.com', '4532&^145', 'Bunga Low'),
 (7, 'makinbunawas@yahoo.com', 'jasd%^521aa', 'Bunawas'),
 (8, 'dunkomp@gmail.com', 'qwertyui', 'Don Comp');
-
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
