@@ -115,4 +115,9 @@ class City_model extends CI_Model {
 		
 		return $Result;
 	}
+	
+	function Truncate() {
+		$TruncateQuery  = "TRUNCATE TABLE `".CITY."`";
+		$TruncateResult = mysql_query($TruncateQuery) or die(mysql_error());
+	}
 }

@@ -1,63 +1,29 @@
-2012-12-19 12
-
-CREATE TABLE IF NOT EXISTS `city` (
-  `city_id` int(11) NOT NULL AUTO_INCREMENT,
-  `user_id` int(11) NOT NULL,
-  `city` varchar(50) NOT NULL,
-  `city_time` datetime NOT NULL,
-  `city_desc` varchar(255) NOT NULL,
-  PRIMARY KEY (`city_id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=21 ;
-
---
--- Dumping data for table `city`
---
-
-INSERT INTO `city` (`city_id`, `user_id`, `city`, `city_time`, `city_desc`) VALUES
-(1, 2, 'First', '2012-12-22 01:54:17', '5 Production 20 City'),
-(2, 2, 'Greenwich', '2012-12-21 10:07:54', ''),
-(3, 2, 'Brooklyn', '2012-12-20 07:40:40', ''),
-(4, 3, 'First', '2012-12-20 07:49:49', ''),
-(5, 3, 'Greenwich', '2012-12-20 07:14:56', ''),
-(6, 4, 'First', '2012-12-20 10:36:59', ''),
-(7, 5, 'First', '2012-12-20 16:40:26', ''),
-(8, 6, 'First', '2012-12-20 07:36:32', ''),
-(9, 7, 'First', '2012-12-20 13:02:55', ''),
-(10, 8, 'First', '2012-12-20 07:34:44', 'Troop'),
-(11, 8, 'Park', '2012-12-20 07:34:47', 'Troop'),
-(12, 4, 'Greenwich', '2012-12-20 10:52:17', ''),
-(13, 2, 'Park', '2012-12-20 07:23:19', ''),
-(14, 3, 'Brooklyn', '2012-12-20 15:14:54', ''),
-(15, 3, 'Park', '2012-12-20 07:31:26', ''),
-(16, 4, 'Brooklyn', '2012-12-20 07:44:10', ''),
-(17, 6, 'Greenwich', '2012-12-20 10:01:55', ''),
-(18, 6, 'Brooklyn', '2012-12-20 21:25:55', ''),
-(19, 6, 'Park', '2012-12-20 22:21:24', ''),
-(20, 2, 'Atlantic', '2012-12-20 07:01:40', '');
-
--- --------------------------------------------------------
-
---
--- Table structure for table `user`
---
-
-CREATE TABLE IF NOT EXISTS `user` (
-  `user_id` int(11) NOT NULL AUTO_INCREMENT,
-  `user_email` varchar(255) NOT NULL,
-  `user_pass` varchar(255) NOT NULL,
-  `user_display` varchar(255) NOT NULL,
-  PRIMARY KEY (`user_id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
-
---
--- Dumping data for table `user`
---
-
-INSERT INTO `user` (`user_id`, `user_email`, `user_pass`, `user_display`) VALUES
-(2, 'her0satr@gmail.com', 'qwertyui', 'Trooper'),
-(3, 'her0satr@yahoo.com', 'qwertyui', 'Cocout'),
-(4, 'donkey.trooper@gmail.com', 'qwertyui2011', 'Donkey G'),
-(5, 'kepetet@gmail.com', 'qwertyui', 'Kepetet'),
-(6, 'bungalowq@ymail.com', '4532&^145', 'Bunga Low'),
-(7, 'makinbunawas@yahoo.com', 'jasd%^521aa', 'Bunawas'),
-(8, 'dunkomp@gmail.com', 'qwertyui', 'Don Comp');
+{"city_id":"1","user_id":"2","city":"First","city_time":"2013-02-26 09:20:52","city_desc":"5 Production 20 City = 559 | 455","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"2","user_id":"2","city":"Greenwich","city_time":"2013-02-25 19:04:16","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2013-02-26 04:07:18","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"4","user_id":"2","city":"Park","city_time":"2013-02-26 18:39:21","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2013-02-25 08:25:58","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"6","user_id":"3","city":"First","city_time":"2013-02-25 09:21:02","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"7","user_id":"3","city":"Greenwich","city_time":"2013-02-25 17:29:14","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"8","user_id":"3","city":"Brooklyn","city_time":"2013-02-25 10:24:30","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"9","user_id":"3","city":"Park","city_time":"2013-02-26 12:51:33","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"10","user_id":"3","city":"Atlantic","city_time":"2013-02-25 14:24:32","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"11","user_id":"4","city":"First","city_time":"2013-02-25 14:24:59","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"12","user_id":"4","city":"Greenwich","city_time":"2013-02-26 18:55:35","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"13","user_id":"4","city":"Brooklyn","city_time":"2013-02-25 17:25:05","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"14","user_id":"4","city":"Park","city_time":"2013-02-25 08:26:16","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"15","user_id":"4","city":"Atlantic","city_time":"2013-02-25 08:26:18","city_desc":"Apartment","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"16","user_id":"5","city":"First","city_time":"2013-02-25 07:16:59","city_desc":"","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"17","user_id":"5","city":"Greenwich","city_time":"2013-02-25 10:57:51","city_desc":"","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"18","user_id":"5","city":"Brooklyn","city_time":"2013-02-25 10:57:53","city_desc":"","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"19","user_id":"6","city":"First","city_time":"2013-02-26 19:16:05","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"20","user_id":"6","city":"Greenwich","city_time":"2013-02-25 16:29:32","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"21","user_id":"6","city":"Brooklyn","city_time":"2013-02-25 10:29:50","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"22","user_id":"6","city":"Park","city_time":"2013-02-25 08:10:14","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"23","user_id":"7","city":"First","city_time":"2013-02-25 08:58:18","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"24","user_id":"7","city":"Greenwich","city_time":"2013-02-25 10:52:03","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"25","user_id":"7","city":"Brooklyn","city_time":"2013-02-25 10:49:04","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"26","user_id":"8","city":"First","city_time":"2013-02-25 16:35:03","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"27","user_id":"8","city":"Greenwich","city_time":"2013-02-25 11:04:42","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"28","user_id":"8","city":"Brooklyn","city_time":"2013-02-25 06:57:52","city_desc":"Apartment","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"29","user_id":"8","city":"Park","city_time":"2013-02-25 16:35:33","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}

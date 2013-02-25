@@ -15,6 +15,9 @@
 	.User .Display { float: left; width: 100px; padding: 2px 0 0 0; }
 	.User .Time { float: left; width: 200px; padding: 2px 0 0 0; }
 	.User .Message { float: left; width: 250px; padding: 2px 0 0 0; }
+	
+	#CntShortCut .link { padding: 0 0 5px 0; }
+	#CntShortCut input { width: 200px; }
 	</style>
 </head>
 
@@ -36,6 +39,10 @@
 
 <div id="CntShortCut" style="position: absolute; top: 10px; right: 10px; text-align: right;">
 	<div class="link">&nbsp;</div>
+	<div class="action">
+		<div class="update"><input type="button" name="EntryForm" value="Update Database" /></div>
+		<div class="commit"><input type="button" name="EntryForm" value="Generate TXT File" /></div>
+	</div>
 	<a href="https://www.kabam.com/games/the-godfather/" target="_blank" style="text-decoration: none;">Play</a>
 </div>
 	
@@ -69,20 +76,37 @@
 		}
 	}
 	
+	// Create Link Shortcut
 	$('.UserAccess').click(function() {
 		var RawRecord = $(this).parent('div').parent('.User').children('.hidden').text();
 		eval('var Record = ' + RawRecord);
 		
 		var UserLink = Func.GodFatherLink + '?user_email=' + Record.user_email + '&user_pass=' + Record.user_pass;
-		$('#CntShortCut div').html('<input type="text" value="' + UserLink + '" readonly="readonly" />');
+		$('#CntShortCut .link').html('<input type="text" value="' + UserLink + '" readonly="readonly" />');
 	});
 	
+	// Generate Form
 	$('.Time .Render, .Message .Render').click(function() {
+		var UnixTime = new Date().getTime();
 		var Text = ($(this).parent('div').attr('class') == 'Time') ? '' : $(this).text();
-		$(this).parent('div').html('<input type="text" name="EntryForm" value="' + Text + '" />');
-		$('input[name="EntryForm"]').focus();
+		$(this).parent('div').html('<input type="text" name="EntryForm" class="' + UnixTime + '" value="' + Text + '" />');
+		$('.' + UnixTime).focus();
 		
 		Func.InitForm();
 	} );
+	
+	// Subversion
+	$('.action .update input').click(function() {
+		var Input = $(this);
+		$.post(Host.Link + '/index.php/welcome/ajax', { Action: 'UpdateTable' }, function() {
+			Input.parent('.update').remove();
+		});
+	});
+	$('.action .commit input').click(function() {
+		var Input = $(this);
+		$.post(Host.Link + '/index.php/welcome/ajax', { Action: 'CommitChange' }, function() {
+			Input.parent('.commit').remove();
+		});
+	});
 </script>
 </body>
