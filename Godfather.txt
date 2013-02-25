@@ -2,28 +2,28 @@
 {"city_id":"2","user_id":"2","city":"Greenwich","city_time":"2013-02-25 19:04:16","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2013-02-26 04:07:18","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"4","user_id":"2","city":"Park","city_time":"2013-02-26 18:39:21","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2013-02-25 16:57:39","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2013-02-25 20:53:20","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"6","user_id":"3","city":"First","city_time":"2013-02-26 03:36:27","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"7","user_id":"3","city":"Greenwich","city_time":"2013-02-25 17:29:14","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"8","user_id":"3","city":"Brooklyn","city_time":"2013-02-25 17:00:26","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"7","user_id":"3","city":"Greenwich","city_time":"2013-02-27 13:47:11","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"8","user_id":"3","city":"Brooklyn","city_time":"2013-02-25 23:16:59","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"9","user_id":"3","city":"Park","city_time":"2013-02-26 12:51:33","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"10","user_id":"3","city":"Atlantic","city_time":"2013-02-25 20:32:34","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"11","user_id":"4","city":"First","city_time":"2013-02-26 16:40:26","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
 {"city_id":"12","user_id":"4","city":"Greenwich","city_time":"2013-02-26 18:55:35","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"13","user_id":"4","city":"Brooklyn","city_time":"2013-02-25 17:25:05","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"14","user_id":"4","city":"Park","city_time":"2013-02-25 17:29:35","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"15","user_id":"4","city":"Atlantic","city_time":"2013-02-25 17:20:43","city_desc":"Apartment","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"13","user_id":"4","city":"Brooklyn","city_time":"2013-02-25 23:48:27","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"14","user_id":"4","city":"Park","city_time":"2013-02-26 04:48:19","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"15","user_id":"4","city":"Atlantic","city_time":"2013-02-25 19:46:17","city_desc":"Apartment","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
 {"city_id":"16","user_id":"5","city":"First","city_time":"2013-02-27 19:04:13","city_desc":"","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"17","user_id":"5","city":"Greenwich","city_time":"2013-02-25 17:31:26","city_desc":"","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"18","user_id":"5","city":"Brooklyn","city_time":"2013-02-25 17:31:45","city_desc":"","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"17","user_id":"5","city":"Greenwich","city_time":"2013-02-25 21:49:21","city_desc":"","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"18","user_id":"5","city":"Brooklyn","city_time":"2013-02-26 04:49:23","city_desc":"","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
 {"city_id":"19","user_id":"6","city":"First","city_time":"2013-02-26 19:16:05","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
 {"city_id":"20","user_id":"6","city":"Greenwich","city_time":"2013-02-26 02:48:38","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"21","user_id":"6","city":"Brooklyn","city_time":"2013-02-25 17:03:40","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"22","user_id":"6","city":"Park","city_time":"2013-02-25 17:03:29","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"21","user_id":"6","city":"Brooklyn","city_time":"2013-02-26 03:50:16","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"22","user_id":"6","city":"Park","city_time":"2013-02-26 03:50:18","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
 {"city_id":"23","user_id":"7","city":"First","city_time":"2013-02-26 18:37:03","city_desc":"Troop","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"24","user_id":"7","city":"Greenwich","city_time":"2013-02-25 17:37:07","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"25","user_id":"7","city":"Brooklyn","city_time":"2013-02-25 17:37:09","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"24","user_id":"7","city":"Greenwich","city_time":"2013-02-26 04:21:15","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"25","user_id":"7","city":"Brooklyn","city_time":"2013-02-25 18:21:17","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
 {"city_id":"26","user_id":"8","city":"First","city_time":"2013-02-26 02:50:48","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"27","user_id":"8","city":"Greenwich","city_time":"2013-02-25 17:37:45","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"28","user_id":"8","city":"Brooklyn","city_time":"2013-02-25 17:15:15","city_desc":"Apartment","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"27","user_id":"8","city":"Greenwich","city_time":"2013-02-26 08:51:57","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"28","user_id":"8","city":"Brooklyn","city_time":"2013-02-25 18:22:00","city_desc":"Apartment","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"29","user_id":"8","city":"Park","city_time":"2013-02-25 21:20:45","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
