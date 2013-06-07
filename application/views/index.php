@@ -11,7 +11,8 @@
 	.cursor { cursor: pointer; }
 	.red { color: #FF0000; }
 	.clear { clear: both; }
-
+	
+	body { font-size: 12px; }
 	.User .Display { float: left; width: 100px; padding: 2px 0 0 0; }
 	.User .Time { float: left; width: 200px; padding: 2px 0 0 0; }
 	.User .Message { float: left; width: 250px; padding: 2px 0 0 0; }
