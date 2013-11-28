@@ -44,7 +44,8 @@
 		<div class="update"><input type="button" name="EntryForm" value="Update Database" /></div>
 		<div class="commit"><input type="button" name="EntryForm" value="Generate TXT File" /></div>
 	</div>
-	<a href="https://www.kabam.com/games/the-godfather/" target="_blank" style="text-decoration: none;">Play</a>
+	<div><a href="https://www.kabam.com/games/the-godfather/" target="_blank" style="text-decoration: none;">Play</a></div>
+	<div>5 Production 20 City = 559 | 455</div>
 </div>
 	
 <script type="text/javascript">
