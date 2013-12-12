@@ -15,7 +15,7 @@
 	body { font-size: 12px; }
 	.User .Display { float: left; width: 100px; padding: 2px 0 0 0; }
 	.User .Time { float: left; width: 200px; padding: 2px 0 0 0; }
-	.User .Message { float: left; width: 250px; padding: 2px 0 0 0; }
+	.User .Message { float: left; width: 350px; padding: 2px 0 0 0; }
 	
 	#CntShortCut .link { padding: 0 0 5px 0; }
 	#CntShortCut input { width: 200px; }
