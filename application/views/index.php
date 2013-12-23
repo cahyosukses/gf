@@ -12,7 +12,7 @@
 	.red { color: #FF0000; }
 	.clear { clear: both; }
 	
-	body { font-size: 12px; }
+	body { font-size: 10px; }
 	.User .Display { float: left; width: 100px; padding: 2px 0 0 0; }
 	.User .Time { float: left; width: 200px; padding: 2px 0 0 0; }
 	.User .Message { float: left; width: 350px; padding: 2px 0 0 0; }
