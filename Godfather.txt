@@ -1,47 +1,47 @@
-{"city_id":"1","user_id":"2","city":"First","city_time":"2013-12-25 07:02:18","city_desc":"Black Widow + Black Market + Workshop + Hide out Lv 10 + Resource","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"2","user_id":"2","city":"Greenwich","city_time":"2013-12-25 06:01:32","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2013-12-25 02:02:52","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"1","user_id":"2","city":"First","city_time":"2013-12-25 16:32:49","city_desc":"Black Widow + Black Market + Workshop + Hide out Lv 10 + Resource","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"2","user_id":"2","city":"Greenwich","city_time":"2013-12-27 10:34:29","city_desc":"Black Widow + Money Urgent","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2013-12-27 10:31:09","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"4","user_id":"2","city":"Park","city_time":"2013-12-25 12:03:20","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2013-12-25 07:03:52","city_desc":"Black Widow + Research","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"6","user_id":"2","city":"Chinatown","city_time":"2013-12-24 10:23:04","city_desc":"Research + Fast Research","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2013-12-25 13:15:27","city_desc":"Black Widow + Research","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"6","user_id":"2","city":"Chinatown","city_time":"2013-12-25 17:35:46","city_desc":"Research + Fast Research","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"7","user_id":"2","city":"Doria","city_time":"2014-07-22 02:12:46","city_desc":"skip","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"8","user_id":"3","city":"First","city_time":"2013-12-25 05:07:55","city_desc":"Black Widow + Library Lv 10 + Hide out Lv 10 + Resource","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"9","user_id":"3","city":"Greenwich","city_time":"2013-12-25 02:07:02","city_desc":"Black Widow","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2013-12-25 02:07:28","city_desc":"Black Widow","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"11","user_id":"3","city":"Park","city_time":"2013-12-25 02:08:29","city_desc":"Black Widow","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"12","user_id":"3","city":"Atlantic","city_time":"2013-12-24 10:21:40","city_desc":"Hide out Lv 7 + Black Widow + Hide out Lv 7","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"43","user_id":"3","city":"Doria","city_time":"2013-12-25 06:43:09","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"13","user_id":"4","city":"First","city_time":"2013-12-24 19:14:21","city_desc":"Butcher + Headquarter + Resource","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"14","user_id":"4","city":"Greenwich","city_time":"2013-12-25 02:14:45","city_desc":"Butcher","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"15","user_id":"4","city":"Brooklyn","city_time":"2013-12-25 02:15:30","city_desc":"Butcher","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"16","user_id":"4","city":"Park","city_time":"2013-12-24 17:45:58","city_desc":"Hide out Lv 7","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"17","user_id":"4","city":"Atlantic","city_time":"2013-12-24 17:45:55","city_desc":"Hide out Lv 7","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"39","user_id":"4","city":"Chinatown","city_time":"2013-12-24 10:33:57","city_desc":"Assasin","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"44","user_id":"4","city":"Doria","city_time":"2013-12-25 06:48:35","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
-{"city_id":"18","user_id":"5","city":"First","city_time":"2013-12-24 12:22:30","city_desc":"Research + Resource","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"19","user_id":"5","city":"Greenwich","city_time":"2013-12-24 10:18:12","city_desc":"Hide out Lv 6","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"20","user_id":"5","city":"Brooklyn","city_time":"2013-12-24 12:06:53","city_desc":"Hide out Lv 8","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"21","user_id":"5","city":"Park","city_time":"2013-12-24 10:06:31","city_desc":"Hide out + mini Hide out","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"22","user_id":"5","city":"Atlantic","city_time":"2013-12-24 10:06:35","city_desc":"mini Hide out","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"40","user_id":"5","city":"Chinatown","city_time":"2013-12-24 13:59:09","city_desc":"Assasin + Research Fast","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"42","user_id":"5","city":"Doria","city_time":"2013-12-24 23:09:42","city_desc":"Build","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
-{"city_id":"23","user_id":"6","city":"First","city_time":"2013-12-24 12:30:12","city_desc":"Butcher + Headquarter + Resource","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"24","user_id":"6","city":"Greenwich","city_time":"2013-12-25 02:30:35","city_desc":"Butcher + Research","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"25","user_id":"6","city":"Brooklyn","city_time":"2013-12-25 02:31:07","city_desc":"Butcher + Research","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"26","user_id":"6","city":"Park","city_time":"2013-12-24 12:34:24","city_desc":"Butcher + Research","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"27","user_id":"6","city":"Atlantic","city_time":"2013-12-24 10:01:18","city_desc":"Armory + Hide out + mini Hide Out + Research","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"28","user_id":"6","city":"Chinatown","city_time":"2013-12-24 18:11:45","city_desc":"Workshop","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"45","user_id":"6","city":"Doria","city_time":"2013-12-25 06:15:13","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
-{"city_id":"29","user_id":"7","city":"First","city_time":"2013-12-25 04:43:31","city_desc":"Research + Transport","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"30","user_id":"7","city":"Greenwich","city_time":"2013-12-25 02:39:22","city_desc":"Hide out","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"31","user_id":"7","city":"Brooklyn","city_time":"2013-12-25 01:15:31","city_desc":"Guest House + mini Hide out","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"32","user_id":"7","city":"Park","city_time":"2013-12-24 13:13:59","city_desc":"Proficiency Lv 17 + Assasin","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"33","user_id":"7","city":"Atlantic","city_time":"2013-12-25 09:37:15","city_desc":"Wall + Library + Research + Research Fast","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"41","user_id":"7","city":"Doria","city_time":"2013-12-24 23:37:33","city_desc":"Build","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"47","user_id":"7","city":"Chinatown","city_time":"2013-12-24 10:02:39","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"34","user_id":"8","city":"First","city_time":"2013-12-25 02:50:11","city_desc":"Research + Resource","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"35","user_id":"8","city":"Greenwich","city_time":"2013-12-24 18:26:22","city_desc":"Hide out Lv 7","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"36","user_id":"8","city":"Brooklyn","city_time":"2013-12-24 19:57:24","city_desc":"Armory + Hide out Lv 5 + mini Hide out + Resource Urgent","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"37","user_id":"8","city":"Park","city_time":"2013-12-24 17:48:11","city_desc":"Assasin","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"38","user_id":"8","city":"Atlantic","city_time":"2013-12-24 10:27:41","city_desc":"Research","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"46","user_id":"8","city":"Doria","city_time":"2013-12-24 10:27:45","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"8","user_id":"3","city":"First","city_time":"2013-12-25 20:52:01","city_desc":"Black Widow + Library Lv 10 + Hide out Lv 10 + Resource","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"9","user_id":"3","city":"Greenwich","city_time":"2013-12-25 20:45:55","city_desc":"Black Widow","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2013-12-25 20:46:38","city_desc":"Black Widow","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"11","user_id":"3","city":"Park","city_time":"2013-12-27 10:48:12","city_desc":"Black Widow","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"12","user_id":"3","city":"Atlantic","city_time":"2013-12-25 20:44:23","city_desc":"Black Widow + Hide out Lv 7","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"43","user_id":"3","city":"Doria","city_time":"2013-12-25 20:44:06","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"13","user_id":"4","city":"First","city_time":"2013-12-26 13:57:35","city_desc":"Butcher + Headquarter + Resource + Truck","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"14","user_id":"4","city":"Greenwich","city_time":"2013-12-25 20:55:16","city_desc":"Butcher","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"15","user_id":"4","city":"Brooklyn","city_time":"2013-12-25 20:56:02","city_desc":"Butcher","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"16","user_id":"4","city":"Park","city_time":"2013-12-25 16:02:55","city_desc":"Hide out Lv 7","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"17","user_id":"4","city":"Atlantic","city_time":"2013-12-25 16:02:58","city_desc":"Hide out Lv 7","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"39","user_id":"4","city":"Chinatown","city_time":"2013-12-25 19:32:11","city_desc":"Assasin","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"44","user_id":"4","city":"Doria","city_time":"2013-12-25 11:57:57","city_desc":"","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
+{"city_id":"18","user_id":"5","city":"First","city_time":"2013-12-26 21:10:59","city_desc":"Research + Resource","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"19","user_id":"5","city":"Greenwich","city_time":"2013-12-25 21:11:18","city_desc":"Hide out Lv 6","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"20","user_id":"5","city":"Brooklyn","city_time":"2013-12-25 21:11:34","city_desc":"Hide out Lv 8","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"21","user_id":"5","city":"Park","city_time":"2013-12-25 12:56:44","city_desc":"Hide out + mini Hide out","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"22","user_id":"5","city":"Atlantic","city_time":"2013-12-25 12:58:43","city_desc":"mini Hide out","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"40","user_id":"5","city":"Chinatown","city_time":"2013-12-25 18:07:55","city_desc":"Assasin + Research Fast","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"42","user_id":"5","city":"Doria","city_time":"2013-12-25 21:07:13","city_desc":"Build","user_email":"kepetet@gmail.com","user_pass":"qwertyui","user_display":"Kepetet"}
+{"city_id":"23","user_id":"6","city":"First","city_time":"2013-12-27 11:20:34","city_desc":"Butcher + Headquarter + Resource","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"24","user_id":"6","city":"Greenwich","city_time":"2013-12-25 16:20:09","city_desc":"Butcher + Research","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"25","user_id":"6","city":"Brooklyn","city_time":"2013-12-25 21:21:01","city_desc":"Butcher + Research","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"26","user_id":"6","city":"Park","city_time":"2013-12-26 21:24:17","city_desc":"Butcher + Research","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"27","user_id":"6","city":"Atlantic","city_time":"2013-12-25 17:23:09","city_desc":"Armory + Hide out + mini Hide Out + Research","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"28","user_id":"6","city":"Chinatown","city_time":"2013-12-25 23:22:44","city_desc":"Workshop","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"45","user_id":"6","city":"Doria","city_time":"2013-12-25 14:52:28","city_desc":"","user_email":"bungalowq@ymail.com","user_pass":"4532&^145","user_display":"Bunga Low"}
+{"city_id":"29","user_id":"7","city":"First","city_time":"2013-12-25 15:28:30","city_desc":"Research + Transport + Resource Urgent","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"30","user_id":"7","city":"Greenwich","city_time":"2013-12-26 19:28:41","city_desc":"Hide out","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"31","user_id":"7","city":"Brooklyn","city_time":"2013-12-25 23:28:55","city_desc":"Guest House + mini Hide out","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"32","user_id":"7","city":"Park","city_time":"2013-12-25 15:29:02","city_desc":"Proficiency Lv 17 + Assasin","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"33","user_id":"7","city":"Atlantic","city_time":"2013-12-25 13:29:25","city_desc":"Wall + Library + Research + Research Fast","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"41","user_id":"7","city":"Chinatown","city_time":"2013-12-25 12:12:23","city_desc":"Build","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"47","user_id":"7","city":"Doria","city_time":"2013-12-25 23:30:06","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"34","user_id":"8","city":"First","city_time":"2013-12-27 11:44:42","city_desc":"Research + Resource","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"35","user_id":"8","city":"Greenwich","city_time":"2013-12-25 17:41:13","city_desc":"Hide out Lv 7","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"36","user_id":"8","city":"Brooklyn","city_time":"2013-12-26 02:41:43","city_desc":"Armory + Hide out Lv 5 + mini Hide out + Resource Urgent","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"37","user_id":"8","city":"Park","city_time":"2013-12-27 03:39:52","city_desc":"Assasin","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"38","user_id":"8","city":"Atlantic","city_time":"2013-12-25 17:39:04","city_desc":"Research","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"46","user_id":"8","city":"Doria","city_time":"2013-12-26 08:38:40","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
