@@ -45,5 +45,5 @@
 {"city_id":"45","user_id":"8","city":"Brooklyn","city_time":"2014-01-04 08:27:11","city_desc":"Assasin + Hide out Lv 5 + mini Hide out + Muscle Lv 16 + Medicine Lv 16 + Garage Lv 10 + Hide out Lv 10","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"46","user_id":"8","city":"Park","city_time":"2014-01-05 15:42:56","city_desc":"Assasin","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"47","user_id":"8","city":"Atlantic","city_time":"2014-01-04 07:05:21","city_desc":"Armory + Proficiency Lv 17","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"48","user_id":"8","city":"Chinatown","city_time":"2014-01-03 17:32:25","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"48","user_id":"8","city":"Chinatown","city_time":"2014-01-03 17:32:25","city_desc":"Fast Research + Apartment + mini Hide out","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"49","user_id":"8","city":"Doria","city_time":"2014-01-05 03:49:02","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
