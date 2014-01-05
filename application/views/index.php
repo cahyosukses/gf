@@ -48,6 +48,7 @@
 	<div><a href="https://www.kabam.com/games/the-godfather/" target="_blank" style="text-decoration: none;">Play</a></div>
 	<div>5 Production 20 City = 559 | 455</div>
 	<div>Power : 1.294.694</div>
+	<div>2 oz We Can't Stop</div>
 </div>
 	
 <script type="text/javascript">
