@@ -46,9 +46,8 @@
 		<div class="commit"><input type="button" name="EntryForm" value="Generate TXT File" /></div>
 	</div>
 	<div><a href="https://www.kabam.com/games/the-godfather/" target="_blank" style="text-decoration: none;">Play</a></div>
-	<div>5 Production 20 City = 559 | 455</div>
-	<div>Power : 1.294.694</div>
-	<div>2 oz We Can't Stop</div>
+	<div>5 Production 49 City = 559 | 455</div>
+	<div>Power : 1.530.260</div>
 </div>
 	
 <script type="text/javascript">
