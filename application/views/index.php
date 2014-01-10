@@ -1,30 +1,9 @@
 <?php
 	$ArrayCity = $this->City_model->GetArray();
 ?>
-<head>
-	<title>God Father</title>
-	<meta http-equiv="refresh" content="120">
-	<script type="text/javascript">var Host = { Link: '<?php echo $this->config->item('base_url'); ?>' }</script>
-	<script type="text/javascript" src="static/jquery/jquery.min.js"></script>
-	<style>
-	.hidden { display: none; }
-	.cursor { cursor: pointer; }
-	.red { color: #FF0000; }
-	.clear { clear: both; }
-	
-	body { font-size: 10px; }
-	.User .Display { float: left; width: 100px; padding: 2px 0 0 0; }
-	.User .Time { float: left; width: 200px; padding: 2px 0 0 0; }
-	.User .Message { float: left; width: 350px; padding: 2px 0 0 0; }
-	.User .Message input { width: 350px; }
-	
-	#CntShortCut .link { padding: 0 0 5px 0; }
-	#CntShortCut input { width: 200px; }
-	</style>
-</head>
-
+<?php $this->load->view( 'meta' ); ?>
 <body>
-<div>
+<div class="cnt-user">
 	<?php $Last = array('User' => ''); ?>
 	<?php foreach ($ArrayCity as $Key => $Array) { ?>
 		<div class="User">
@@ -38,18 +17,8 @@
 		<?php $Last['User'] = $Array['user_display']; ?>
 	<?php } ?>
 </div>
+<?php $this->load->view( 'sidebar' ); ?>
 
-<div id="CntShortCut" style="position: absolute; top: 10px; right: 10px; text-align: right;">
-	<div class="link">&nbsp;</div>
-	<div class="action">
-		<div class="update"><input type="button" name="EntryForm" value="Update Database" /></div>
-		<div class="commit"><input type="button" name="EntryForm" value="Generate TXT File" /></div>
-	</div>
-	<div><a href="https://www.kabam.com/games/the-godfather/" target="_blank" style="text-decoration: none;">Play</a></div>
-	<div>5 Production 49 City = 559 | 455</div>
-	<div>Power : 1.530.260</div>
-</div>
-	
 <script type="text/javascript">
 	var Func = {
 		GodFatherLink: 'https://www.kabam.com/games/the-godfather/',
@@ -98,19 +67,5 @@
 		
 		Func.InitForm();
 	} );
-	
-	// Subversion
-	$('.action .update input').click(function() {
-		var Input = $(this);
-		$.post(Host.Link + '/index.php/welcome/ajax', { Action: 'UpdateTable' }, function() {
-			Input.parent('.update').remove();
-		});
-	});
-	$('.action .commit input').click(function() {
-		var Input = $(this);
-		$.post(Host.Link + '/index.php/welcome/ajax', { Action: 'CommitChange' }, function() {
-			Input.parent('.commit').remove();
-		});
-	});
 </script>
 </body>
