@@ -7,6 +7,7 @@
 	.hidden { display: none; }
 	.cursor { cursor: pointer; }
 	.red { color: #FF0000; }
+	.right { text-align: right; }
 	.clear { clear: both; }
 	
 	body { font-size: 10px; }

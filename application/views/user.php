@@ -9,7 +9,7 @@
 		<div class="User">
 			<div class="hidden"><?php echo json_encode($array); ?></div>
 			<div class="Display"><?php echo $array['user_display']; ?></div>
-			<div class="Display form-user-power"><?php echo $array['user_power']; ?></div>
+			<div class="Display right form-user-power"><?php echo MoneyFormat($array['user_power']); ?></div>
 			<div class="clear"></div>
 		</div>
 	<?php } ?>

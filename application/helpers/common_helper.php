@@ -60,7 +60,7 @@ if (! function_exists('ConvertDateToQuery')) {
 
 if (! function_exists('MoneyFormat')) {
 	function MoneyFormat($Value) {
-		return number_format($Value, 2, ',', '.');
+		return number_format($Value, 0, ',', '.');
 	}
 }
 
