@@ -90,7 +90,7 @@ class City_model extends CI_Model {
 	}
 	
 	function GetTime($ModifyTime) {
-		$ModifyTime = (empty($ModifyTime)) ? '0M' : $ModifyTime;
+		$ModifyTime = (empty($ModifyTime)) ? '0M' : strtoupper($ModifyTime);
 		
 		$ArrayTime = array("F", "W", "D", "H", "M");
 		$ArrayReplace = array("month", "week", "day", "hour", "minute");
