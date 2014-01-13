@@ -18,7 +18,7 @@ class welcome extends CI_Controller {
 		} else if ($Action == 'UpdateCity') {
 			$this->City_model->Update($Param);
 		} else if ($Action == 'UpdateTable') {
-			$ArrayCity = file($this->config->item('base_path') . '/Godfather.txt');
+			$ArrayCity = file($this->config->item('base_path') . '/json.txt');
 			
 			if (count($ArrayCity) > 10) {
 				$this->City_model->Truncate();
@@ -38,7 +38,7 @@ class welcome extends CI_Controller {
 			foreach ($ArrayCity as $City) {
 				$String .= json_encode($City) . "\n";
 			}
-			Write($this->config->item('base_path') . '/Godfather.txt', $String);
+			Write($this->config->item('base_path') . '/json.txt', $String);
 		}
 	}
 }
