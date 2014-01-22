@@ -1,8 +1,8 @@
-{"city_id":"1","user_id":"2","city":"First","city_time":"2014-01-22 18:09:55","city_desc":"Black Widow + Library Lv 11 + Black Market + Logistic Lv 25","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"1","user_id":"2","city":"First","city_time":"2014-01-22 22:20:12","city_desc":"Black Widow + Library Lv 11 + Black Market + Logistic Lv 25","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"2","user_id":"2","city":"Greenwich","city_time":"2014-01-23 14:13:32","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2014-01-22 21:29:47","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"4","user_id":"2","city":"Park","city_time":"2014-01-22 18:13:02","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
-{"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2014-01-22 18:15:58","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2014-01-24 06:30:24","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"4","user_id":"2","city":"Park","city_time":"2014-01-23 21:18:36","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
+{"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2014-01-23 21:19:23","city_desc":"Black Widow","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"6","user_id":"2","city":"Chinatown","city_time":"2014-01-23 03:18:52","city_desc":"Guard Post Lv 9 + Apartment Lv 9 + Hide out Lv 3","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"7","user_id":"2","city":"Doria","city_time":"2014-07-22 02:12:46","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"8","user_id":"3","city":"First","city_time":"2014-01-24 08:27:25","city_desc":"Library Lv 11 + Butcher + Headquarter + Construction Lv 20 + Don Sanction (2) ?? + Don Blessing ??","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
@@ -10,7 +10,7 @@
 {"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2014-01-24 16:29:14","city_desc":"Butcher + Construction Lv 20","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"11","user_id":"3","city":"Park","city_time":"2014-01-24 16:30:18","city_desc":"Butcher","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"12","user_id":"3","city":"Atlantic","city_time":"2014-01-23 03:28:39","city_desc":"Butcher + Hide out Lv 10","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"13","user_id":"3","city":"Chinatown","city_time":"2014-01-22 18:27:00","city_desc":"Steel Mill Lv 9 + Garage Lv 9 + Logistic Lv 17","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"13","user_id":"3","city":"Chinatown","city_time":"2014-01-22 23:46:28","city_desc":"Steel Mill Lv 9 + Garage Lv 9 + Logistic Lv 17","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"14","user_id":"3","city":"Doria","city_time":"2014-08-07 08:32:17","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"15","user_id":"4","city":"First","city_time":"2014-01-22 21:04:51","city_desc":"Black Widow + Headquarter + Construction Lv 20","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
 {"city_id":"16","user_id":"4","city":"Greenwich","city_time":"2014-01-23 18:04:46","city_desc":"Black Widow + Contruction Lv 20","user_email":"donkey.trooper@gmail.com","user_pass":"qwertyui2011","user_display":"Donkey G"}
@@ -45,5 +45,5 @@
 {"city_id":"45","user_id":"8","city":"Brooklyn","city_time":"2014-01-23 06:44:09","city_desc":"Assasin + Hide out Lv 7 + Muscle Lv 16 + Hide out Lv 10","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"46","user_id":"8","city":"Park","city_time":"2014-01-22 22:42:01","city_desc":"Assasin","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"47","user_id":"8","city":"Atlantic","city_time":"2014-01-23 06:15:47","city_desc":"Apartment + Proficiency Lv 17","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
-{"city_id":"48","user_id":"8","city":"Chinatown","city_time":"2014-01-22 18:54:59","city_desc":"Steel Mill + Hide out Lv 9 (1 saja) + Proficiency Lv 17 + Apartment + mini Hide out","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"48","user_id":"8","city":"Chinatown","city_time":"2014-01-22 23:44:16","city_desc":"Steel Mill + Hide out Lv 9 (1 saja) + Proficiency Lv 17 + Apartment + mini Hide out","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"49","user_id":"8","city":"Doria","city_time":"2014-08-11 13:32:34","city_desc":"","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
