@@ -7,8 +7,8 @@
 {"city_id":"7","user_id":"2","city":"Doria","city_time":"2014-07-22 02:12:46","city_desc":"","user_email":"her0satr@gmail.com","user_pass":"qwertyui","user_display":"Trooper"}
 {"city_id":"8","user_id":"3","city":"First","city_time":"2014-01-24 19:25:32","city_desc":"Library Lv 11 + Butcher + Headquarter + Construction Lv 20 + Don Sanction (2) ??","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"9","user_id":"3","city":"Greenwich","city_time":"2014-01-25 18:39:50","city_desc":"Butcher","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2014-01-24 16:29:14","city_desc":"Butcher + Construction Lv 20","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
-{"city_id":"11","user_id":"3","city":"Park","city_time":"2014-01-24 16:30:18","city_desc":"Butcher","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2014-01-25 02:03:40","city_desc":"Butcher + Construction Lv 20","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
+{"city_id":"11","user_id":"3","city":"Park","city_time":"2014-01-25 11:04:09","city_desc":"Butcher","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"12","user_id":"3","city":"Atlantic","city_time":"2014-01-24 21:59:49","city_desc":"Butcher + Hide out Lv 10","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"13","user_id":"3","city":"Chinatown","city_time":"2014-01-24 23:55:17","city_desc":"Garage Lv 9 + Logistic Lv 17","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
 {"city_id":"14","user_id":"3","city":"Doria","city_time":"2014-08-07 08:32:17","city_desc":"","user_email":"her0satr@yahoo.com","user_pass":"qwertyui","user_display":"Cocout"}
@@ -36,7 +36,7 @@
 {"city_id":"36","user_id":"7","city":"First","city_time":"2014-01-24 23:12:03","city_desc":"Butcher + Headquarter","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
 {"city_id":"37","user_id":"7","city":"Greenwich","city_time":"2014-01-25 05:05:12","city_desc":"Butcher + Muscle Lv 16 + Medicine Lv 16","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
 {"city_id":"38","user_id":"7","city":"Brooklyn","city_time":"2014-01-24 18:00:38","city_desc":"Butcher + Hide out Lv 4 + Muscle Lv 16 + Medicine Lv 16","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"39","user_id":"7","city":"Park","city_time":"2014-01-24 16:42:10","city_desc":"Front Gate Lv 9 + Medicine Lv 18","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
+{"city_id":"39","user_id":"7","city":"Park","city_time":"2014-01-25 01:11:40","city_desc":"Front Gate Lv 9 + Medicine Lv 18","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
 {"city_id":"40","user_id":"7","city":"Atlantic","city_time":"2014-01-26 01:42:33","city_desc":"Guard Post Lv 9 + Medicine Lv 16","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
 {"city_id":"41","user_id":"7","city":"Chinatown","city_time":"2014-01-24 17:56:40","city_desc":"Armory Lv 9 + Proficiency Lv 17","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
 {"city_id":"42","user_id":"7","city":"Doria","city_time":"2014-08-05 14:55:58","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
