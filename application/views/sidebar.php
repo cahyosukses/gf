@@ -9,8 +9,9 @@
 		<a href="<?php echo base_url(''); ?>" style="text-decoration: none;">Home</a> |
 		<a href="<?php echo base_url('user'); ?>" style="text-decoration: none;">User</a>
 	</div>
-	<div>5 Production 49 City = 559 | 455</div>
 	<div>Power : 1.530.260</div>
+	<div>5 Production 49 City = 559 | 455</div>
+	<div>First Neighborhood : 200 Smuggler</div>
 </div>
 
 <script type="text/javascript">
