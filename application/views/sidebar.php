@@ -12,6 +12,7 @@
 	<div>Power : 1.530.260</div>
 	<div>5 Production 49 City = 559 | 455</div>
 	<div>First Neighborhood : 200 Smuggler</div>
+	<div>20 Week for idle town</div>
 </div>
 
 <script type="text/javascript">
