@@ -40,7 +40,7 @@
 {"city_id":"40","user_id":"7","city":"Atlantic","city_time":"2014-02-10 17:36:34","city_desc":"Apartment + Medicine Lv 16","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
 {"city_id":"41","user_id":"7","city":"Chinatown","city_time":"2014-02-11 02:11:50","city_desc":"Hide out Lv 9 (1 saja) + Proficiency Lv 17","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
 {"city_id":"42","user_id":"7","city":"Doria","city_time":"2014-08-05 14:55:58","city_desc":"","user_email":"makinbunawas@yahoo.com","user_pass":"jasd%^521aa","user_display":"Bunawas"}
-{"city_id":"43","user_id":"8","city":"First","city_time":"2014-02-10 16:38:32","city_desc":"Assasin + Law Firm","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
+{"city_id":"43","user_id":"8","city":"First","city_time":"2014-02-12 20:46:46","city_desc":"Assasin + Law Firm","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"44","user_id":"8","city":"Greenwich","city_time":"2014-02-13 01:45:27","city_desc":"Assasin + Medicine Lv 18","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"45","user_id":"8","city":"Brooklyn","city_time":"2014-02-11 06:39:08","city_desc":"Assasin + Warehouse + Guest House + Muscle Lv 16","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
 {"city_id":"46","user_id":"8","city":"Park","city_time":"2014-02-10 18:40:16","city_desc":"Assasin + Library Lv 10","user_email":"dunkomp@gmail.com","user_pass":"qwertyui","user_display":"Don Comp"}
