@@ -36,6 +36,14 @@ class welcome extends CI_Controller {
 			$String = '';
 			$ArrayCity = $this->City_model->GetArray(array('limit' => 1000));
 			foreach ($ArrayCity as $City) {
+				// delete mail & password
+				if (isset($City['user_email'])) {
+					unset($City['user_email']);
+				}
+				if (isset($City['user_pass'])) {
+					unset($City['user_pass']);
+				}
+				
 				$String .= json_encode($City) . "\n";
 			}
 			Write($this->config->item('base_path') . '/json.txt', $String);

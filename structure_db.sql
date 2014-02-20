@@ -83,19 +83,6 @@ CREATE TABLE IF NOT EXISTS `user` (
   PRIMARY KEY (`user_id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
 
---
--- Dumping data for table `user`
---
-
-INSERT INTO `user` (`user_id`, `user_email`, `user_pass`, `user_display`) VALUES
-(2, 'her0satr@gmail.com', 'qwertyui', 'Trooper'),
-(3, 'her0satr@yahoo.com', 'qwertyui', 'Cocout'),
-(4, 'donkey.trooper@gmail.com', 'qwertyui2011', 'Donkey G'),
-(5, 'kepetet@gmail.com', 'qwertyui', 'Kepetet'),
-(6, 'bungalowq@ymail.com', '4532&^145', 'Bunga Low'),
-(7, 'makinbunawas@yahoo.com', 'jasd%^521aa', 'Bunawas'),
-(8, 'dunkomp@gmail.com', 'qwertyui', 'Don Comp');
-
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
