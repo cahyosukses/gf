@@ -4,7 +4,7 @@ class User_model extends CI_Model {
 	function __construct() {
         parent::__construct();
 		
-		$this->Field = array('user_id', 'user_email', 'user_pass', 'user_display', 'user_power');
+		$this->Field = array( 'user_id', 'user_email', 'user_pass', 'user_display', 'user_power', 'user_troop' );
     }
 	
 	function Update($Param) {

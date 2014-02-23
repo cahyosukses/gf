@@ -54,7 +54,7 @@ class City_model extends CI_Model {
         $StringSorting = (isset($Param['sort'])) ? GetStringSorting($Param['sort']) : 'user_id ASC, city_id ASC, city ASC';
 		
 		$SelectQuery = "
-			SELECT City.*, User.user_email, User.user_pass, User.user_display
+			SELECT City.*, User.user_email, User.user_pass, User.user_display, User.user_troop
 			FROM ".CITY." City
 			LEFT JOIN ".USER." User ON User.user_id = City.user_id
 			WHERE 1 $StringSearch $StringFilter
