@@ -13,11 +13,11 @@
 {"city_id":"6","user_id":"2","city":"Chinatown","city_time":"2014-03-03 22:51:43","city_desc":"Garage Lv 10 + Workshop Lv 10 + Hide out Lv 7 + Medicine Lv 18","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
 {"city_id":"7","user_id":"2","city":"Doria","city_time":"2014-07-18 08:24:00","city_desc":"","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
 {"city_id":"8","user_id":"3","city":"First","city_time":"2014-03-04 21:05:10","city_desc":"Promote Council + Enda + Logistic Lv 25 + 933K","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
-{"city_id":"9","user_id":"3","city":"Greenwich","city_time":"2014-03-04 07:13:46","city_desc":"build Hide out","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
-{"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2014-03-04 07:13:48","city_desc":"build Hide out","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
-{"city_id":"11","user_id":"3","city":"Park","city_time":"2014-03-04 07:13:50","city_desc":"build Hide out + Construction Lv 20","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
-{"city_id":"12","user_id":"3","city":"Atlantic","city_time":"2014-03-04 07:13:52","city_desc":"mini Hide out + Convension Center + Medicine Lv 18","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
-{"city_id":"13","user_id":"3","city":"Chinatown","city_time":"2014-03-04 06:50:34","city_desc":"Garage Lv 10 + Hide out Lv 10 + Logistic Lv 18 + Coruption Lv 17","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"9","user_id":"3","city":"Greenwich","city_time":"2014-03-04 10:34:03","city_desc":"build Hide out","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2014-03-05 01:34:13","city_desc":"build Hide out","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"11","user_id":"3","city":"Park","city_time":"2014-03-04 10:34:25","city_desc":"build Hide out + Construction Lv 20","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"12","user_id":"3","city":"Atlantic","city_time":"2014-03-04 17:34:49","city_desc":"mini Hide out + Convension Center + Medicine Lv 18","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"13","user_id":"3","city":"Chinatown","city_time":"2014-03-04 15:35:11","city_desc":"Garage Lv 10 + Hide out Lv 10 + Logistic Lv 18 + Coruption Lv 17","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
 {"city_id":"14","user_id":"3","city":"Doria","city_time":"2014-07-21 08:32:19","city_desc":"","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
 {"city_id":"15","user_id":"4","city":"First","city_time":"2014-03-03 22:53:03","city_desc":"Enda + Research","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"16","user_id":"4","city":"Greenwich","city_time":"2014-03-05 08:09:23","city_desc":"","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
