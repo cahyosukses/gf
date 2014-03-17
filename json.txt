@@ -7,50 +7,50 @@
 {"table":"user","user_id":"8","user_power":"329782","user_troop":"Black Widow"}
 {"city_id":"1","user_id":"2","city":"First","city_time":"2014-03-17 23:56:36","city_desc":"Enda + mini Hide out + Logistic Lv 25","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
 {"city_id":"2","user_id":"2","city":"Greenwich","city_time":"2014-03-18 23:59:04","city_desc":"Construction Lv 20","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
-{"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2014-03-17 17:58:49","city_desc":"Construction Lv 20","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
+{"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2014-03-18 16:10:02","city_desc":"Construction Lv 20","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
 {"city_id":"4","user_id":"2","city":"Park","city_time":"2014-03-18 23:58:34","city_desc":"Construction Lv 20","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
 {"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2014-03-18 13:54:36","city_desc":"Convension Center + Construction Lv 20","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
 {"city_id":"6","user_id":"2","city":"Chinatown","city_time":"2014-03-17 23:53:45","city_desc":"Hide out Lv 7 + Medicine Lv 18","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
 {"city_id":"7","user_id":"2","city":"Doria","city_time":"2014-07-18 08:24:00","city_desc":"","user_display":"Trooper","user_troop":"Black Widow ","table":"city"}
-{"city_id":"8","user_id":"3","city":"First","city_time":"2014-03-17 18:06:14","city_desc":"Enda + Logistic Lv 25","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"8","user_id":"3","city":"First","city_time":"2014-03-19 20:20:21","city_desc":"Enda + Logistic Lv 25","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
 {"city_id":"9","user_id":"3","city":"Greenwich","city_time":"2014-03-19 20:06:44","city_desc":"","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
-{"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2014-03-18 11:03:59","city_desc":"","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
-{"city_id":"11","user_id":"3","city":"Park","city_time":"2014-03-19 01:31:27","city_desc":"","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
-{"city_id":"12","user_id":"3","city":"Atlantic","city_time":"2014-03-19 03:03:03","city_desc":"Ferris Wheel + Convension Center + Medicine Lv 18","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"10","user_id":"3","city":"Brooklyn","city_time":"2014-03-20 03:21:44","city_desc":"","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"11","user_id":"3","city":"Park","city_time":"2014-03-19 01:22:01","city_desc":"","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
+{"city_id":"12","user_id":"3","city":"Atlantic","city_time":"2014-03-19 03:22:16","city_desc":"Ferris Wheel + Convension Center + Medicine Lv 18","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
 {"city_id":"13","user_id":"3","city":"Chinatown","city_time":"2014-03-17 23:08:01","city_desc":"Garage Lv 10 + Hide out Lv 10 + Coruption Lv 17","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
 {"city_id":"14","user_id":"3","city":"Doria","city_time":"2014-07-21 08:32:19","city_desc":"","user_display":"Cocout","user_troop":"Black Widow","table":"city"}
 {"city_id":"15","user_id":"4","city":"First","city_time":"2014-03-19 00:16:45","city_desc":"Enda + Research","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"16","user_id":"4","city":"Greenwich","city_time":"2014-03-19 20:15:57","city_desc":"","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
-{"city_id":"17","user_id":"4","city":"Brooklyn","city_time":"2014-03-19 22:06:26","city_desc":"Contruction Lv 20","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
+{"city_id":"17","user_id":"4","city":"Brooklyn","city_time":"2014-03-19 22:26:54","city_desc":"Contruction Lv 20","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"18","user_id":"4","city":"Park","city_time":"2014-03-19 01:17:36","city_desc":"Contruction Lv 20","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"19","user_id":"4","city":"Atlantic","city_time":"2014-03-19 01:18:24","city_desc":"Carjacking Lv 20","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
-{"city_id":"20","user_id":"4","city":"Chinatown","city_time":"2014-03-18 21:17:12","city_desc":"Hide out Lv 5 + Medicine Lv 18","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
+{"city_id":"20","user_id":"4","city":"Chinatown","city_time":"2014-03-18 21:27:14","city_desc":"Hide out Lv 5 + Medicine Lv 18","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"21","user_id":"4","city":"Doria","city_time":"2014-07-27 08:14:46","city_desc":"","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"22","user_id":"5","city":"First","city_time":"2014-03-18 20:43:29","city_desc":"Enda + Logistic Lv 25","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
-{"city_id":"23","user_id":"5","city":"Greenwich","city_time":"2014-03-19 10:10:26","city_desc":"Construction Lv 20","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
+{"city_id":"23","user_id":"5","city":"Greenwich","city_time":"2014-03-19 10:30:38","city_desc":"Construction Lv 20","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"24","user_id":"5","city":"Brooklyn","city_time":"2014-03-19 21:33:44","city_desc":"Construction Lv 20","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
-{"city_id":"25","user_id":"5","city":"Park","city_time":"2014-03-19 01:10:46","city_desc":"Medicine Lv 18","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
-{"city_id":"26","user_id":"5","city":"Atlantic","city_time":"2014-03-18 04:11:05","city_desc":"Mansion Lv 10 + Medicine Lv 18","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
+{"city_id":"25","user_id":"5","city":"Park","city_time":"2014-03-21 22:31:40","city_desc":"Medicine Lv 18","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
+{"city_id":"26","user_id":"5","city":"Atlantic","city_time":"2014-03-18 03:32:01","city_desc":"Mansion Lv 10 + Medicine Lv 18","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"27","user_id":"5","city":"Chinatown","city_time":"2014-03-19 16:28:34","city_desc":"Garage Lv 10 + Hide out Lv 10 + Hide out Lv 7 + Proficiency Lv 17","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"28","user_id":"5","city":"Doria","city_time":"2014-08-19 13:48:37","city_desc":"","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"29","user_id":"6","city":"First","city_time":"2014-03-21 08:51:50","city_desc":"Enda + Research","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"30","user_id":"6","city":"Greenwich","city_time":"2014-03-19 21:53:57","city_desc":"","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"31","user_id":"6","city":"Brooklyn","city_time":"2014-03-19 15:52:34","city_desc":"","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
-{"city_id":"32","user_id":"6","city":"Park","city_time":"2014-03-18 20:14:10","city_desc":"Construction Lv 20","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
-{"city_id":"33","user_id":"6","city":"Atlantic","city_time":"2014-03-17 21:14:28","city_desc":"Medicine Lv 18","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
-{"city_id":"34","user_id":"6","city":"Chinatown","city_time":"2014-03-18 04:14:48","city_desc":"Garage Lv 10 + Hide out Lv 7 + Logistic Lv 18 + Medicine Lv 18","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
+{"city_id":"32","user_id":"6","city":"Park","city_time":"2014-03-18 20:35:40","city_desc":"Construction Lv 20","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
+{"city_id":"33","user_id":"6","city":"Atlantic","city_time":"2014-03-20 00:35:26","city_desc":"Medicine Lv 18","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
+{"city_id":"34","user_id":"6","city":"Chinatown","city_time":"2014-03-18 04:35:02","city_desc":"Garage Lv 10 + Hide out Lv 7 + Logistic Lv 18 + Medicine Lv 18","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"35","user_id":"6","city":"Doria","city_time":"2014-08-09 11:40:13","city_desc":"","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"36","user_id":"7","city":"First","city_time":"2014-03-18 00:58:34","city_desc":"Council Lv 2 + Enda + Research","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"37","user_id":"7","city":"Greenwich","city_time":"2014-03-19 23:01:07","city_desc":"","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
-{"city_id":"38","user_id":"7","city":"Brooklyn","city_time":"2014-03-19 22:17:57","city_desc":"Muscle Lv 16 + Medicine Lv 16","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
-{"city_id":"39","user_id":"7","city":"Park","city_time":"2014-03-18 02:10:21","city_desc":"Hide out Lv 4 + Medicine Lv 18","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
-{"city_id":"40","user_id":"7","city":"Atlantic","city_time":"2014-03-18 02:10:32","city_desc":"Hide out Lv 4 + Medicine Lv 16","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
-{"city_id":"41","user_id":"7","city":"Chinatown","city_time":"2014-03-17 23:18:38","city_desc":"Hide out Lv 10 + Hide out Lv 4 + Proficiency Lv 17","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
+{"city_id":"38","user_id":"7","city":"Brooklyn","city_time":"2014-03-19 21:53:31","city_desc":"Muscle Lv 16 + Medicine Lv 16","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
+{"city_id":"39","user_id":"7","city":"Park","city_time":"2014-03-18 01:53:46","city_desc":"Hide out Lv 4 + Medicine Lv 18","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
+{"city_id":"40","user_id":"7","city":"Atlantic","city_time":"2014-03-18 01:54:08","city_desc":"Hide out Lv 4 + Medicine Lv 16","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
+{"city_id":"41","user_id":"7","city":"Chinatown","city_time":"2014-03-17 23:24:21","city_desc":"Hide out Lv 10 + Hide out Lv 4 + Proficiency Lv 17","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"42","user_id":"7","city":"Doria","city_time":"2014-08-05 14:55:58","city_desc":"","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"43","user_id":"8","city":"First","city_time":"2014-03-19 01:28:21","city_desc":"Enda + Reseach","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
 {"city_id":"44","user_id":"8","city":"Greenwich","city_time":"2014-03-19 22:28:35","city_desc":"Construction Lv 20","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
-{"city_id":"45","user_id":"8","city":"Brooklyn","city_time":"2014-03-20 11:47:31","city_desc":"Muscle Lv 20","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
+{"city_id":"45","user_id":"8","city":"Brooklyn","city_time":"2014-03-20 11:57:40","city_desc":"Muscle Lv 20","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
 {"city_id":"46","user_id":"8","city":"Park","city_time":"2014-03-19 03:06:31","city_desc":"Construction Lv 20","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
 {"city_id":"47","user_id":"8","city":"Atlantic","city_time":"2014-03-19 11:07:03","city_desc":"Garage Lv 10 + Medicine Lv 18","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
-{"city_id":"48","user_id":"8","city":"Chinatown","city_time":"2014-03-18 01:21:15","city_desc":"Workshop Lv 10 + Garage Lv 10 + Hide out Lv 5 + Proficiency Lv 17","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
+{"city_id":"48","user_id":"8","city":"Chinatown","city_time":"2014-03-18 00:57:52","city_desc":"Workshop Lv 10 + Garage Lv 10 + Hide out Lv 5 + Proficiency Lv 17","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
 {"city_id":"49","user_id":"8","city":"Doria","city_time":"2014-08-11 13:32:34","city_desc":"","user_display":"Don Comp","user_troop":"Black Widow","table":"city"}
