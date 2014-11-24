@@ -1,4 +1,4 @@
-<div id="CntShortCut" style="position: absolute; top: 10px; right: 10px; text-align: right;">
+<div id="CntShortCut" style="position: fixed; top: 10px; right: 10px; text-align: right;">
 	<div class="link">&nbsp;</div>
 	<div class="action">
 		<div class="update"><input type="button" name="EntryForm" value="Update Database" /></div>
