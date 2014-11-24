@@ -1,5 +1,5 @@
 <?php
-	$ArrayCity = $this->City_model->GetArray();
+	$ArrayCity = $this->City_model->GetArray(array( 'limit' => 150 ));
 ?>
 <?php $this->load->view( 'meta' ); ?>
 <body>
@@ -31,6 +31,7 @@
 		GodFatherLink: 'https://www.kabam.com/games/the-godfather/',
 		InitForm: function() {
 			$('input[name="EntryForm"]').keypress(function(event) {
+				var input = $(this);
 				var ActionType = {
 					Time: 'ModifyCityTime',
 					Message: 'UpdateCity',
@@ -54,7 +55,8 @@
 					}
 					
 					$.post(Host.Link + '/index.php/welcome/ajax', AjaxParam, function() {
-						window.location.href = window.location.href;
+						input.val('done');
+						// window.location.href = window.location.href;
 					});
 				}
 			});
