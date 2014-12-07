@@ -6,7 +6,7 @@
 {"table":"user","user_id":"7","user_power":"413159","user_troop":"Truk + Black Widow"}
 {"table":"user","user_id":"8","user_power":"426606","user_troop":"Assasin"}
 {"city_id":"1","user_id":"2","city":"First","city_time":"2014-12-09 23:52:36","city_desc":"Haberdashery + Research + Troop","user_display":"Trooper","user_troop":"","table":"city"}
-{"city_id":"2","user_id":"2","city":"Greenwich","city_time":"2014-12-09 13:10:41","city_desc":"Troop","user_display":"Trooper","user_troop":"","table":"city"}
+{"city_id":"2","user_id":"2","city":"Greenwich","city_time":"2014-12-09 13:10:41","city_desc":"Troop + Hide out Lv 11","user_display":"Trooper","user_troop":"","table":"city"}
 {"city_id":"3","user_id":"2","city":"Brooklyn","city_time":"2014-12-08 22:23:52","city_desc":"Troop + Research","user_display":"Trooper","user_troop":"","table":"city"}
 {"city_id":"4","user_id":"2","city":"Park","city_time":"2014-12-09 10:11:16","city_desc":"Troop","user_display":"Trooper","user_troop":"","table":"city"}
 {"city_id":"5","user_id":"2","city":"Atlantic","city_time":"2014-12-08 10:40:14","city_desc":"Edna Lv 9 + Troop","user_display":"Trooper","user_troop":"","table":"city"}
