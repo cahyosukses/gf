@@ -12,7 +12,7 @@
 	<div>Power : 3.000.000</div>
 	<div>20 Week for idle town</div>
 	<div>5 Production 49 City = 559 | 455</div>
-	<div>Fokus 1 Player dulu, sisanya bangun yang lama</div>
+	<div>Focus Pekerjaan dulu, lalu 1 player dulu, sisanya bangun yang lama</div>
 	<div style="padding: 10px 0 0 0;">
 		Attack ISB<br />
 		Daily Token<br />
