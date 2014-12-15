@@ -51,7 +51,7 @@ class City_model extends CI_Model {
 		
 		$PageOffset = (isset($Param['start']) && !empty($Param['start'])) ? $Param['start'] : 0;
 		$PageLimit = (isset($Param['limit']) && !empty($Param['limit'])) ? $Param['limit'] : 50;
-        $StringSorting = (isset($Param['sort'])) ? GetStringSorting($Param['sort']) : 'user_id ASC, city_id ASC, city ASC';
+        $StringSorting = (isset($Param['sort'])) ? GetStringSorting($Param['sort']) : 'user_power ASC, user_id ASC, city_id ASC, city ASC';
 		
 		$SelectQuery = "
 			SELECT City.*, User.user_email, User.user_pass, User.user_display, User.user_troop

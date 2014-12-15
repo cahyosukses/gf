@@ -88,6 +88,22 @@ class User_model extends CI_Model {
 		return $TotalRecord;
 	}
 	
+	function get_power_sum() {
+		$total = 0;
+		
+		$SelectQuery = "
+			SELECT SUM(user_power) AS total
+			FROM ".USER." user
+		";
+		
+		$SelectResult = mysql_query($SelectQuery) or die(mysql_error());
+		while (false !== $Row = mysql_fetch_assoc($SelectResult)) {
+			$total = $Row['total'];
+		}
+		
+		return $total;
+	}
+	
 	function GetTime($ModifyTime) {
 		$ModifyTime = (empty($ModifyTime)) ? '0M' : $ModifyTime;
 		
