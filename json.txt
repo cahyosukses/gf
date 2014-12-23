@@ -20,7 +20,7 @@
 {"city_id":"13","user_id":"8","city":"Atlantic","city_time":"2014-12-25 23:22:14","city_desc":"Troop","user_display":"Don Comp","user_troop":"Assasin","table":"city"}
 {"city_id":"14","user_id":"8","city":"Chinatown","city_time":"2014-12-25 06:41:08","city_desc":"Chow Seafood Lv 9 + Proficiency Lv 17 + Troop---","user_display":"Don Comp","user_troop":"Assasin","table":"city"}
 {"city_id":"15","user_id":"8","city":"Doria","city_time":"2016-04-05 18:24:44","city_desc":"Cugino Item","user_display":"Don Comp","user_troop":"Assasin","table":"city"}
-{"city_id":"16","user_id":"8","city":"Harlem","city_time":"2014-12-24 06:41:41","city_desc":"Hide out Lv 9 + Proficience Lv 17 + Troop","user_display":"Don Comp","user_troop":"Assasin","table":"city"}
+{"city_id":"16","user_id":"8","city":"Harlem","city_time":"2014-12-24 07:23:59","city_desc":"mini Hide out + Hide out Lv 9 + Proficience Lv 17 + Troop","user_display":"Don Comp","user_troop":"Assasin","table":"city"}
 {"city_id":"17","user_id":"5","city":"First","city_time":"2014-12-26 01:39:16","city_desc":"Hospital Lv 9 + Troop + Sabotage","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"18","user_id":"5","city":"Greenwich","city_time":"2014-12-24 14:11:09","city_desc":"Troop","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"19","user_id":"5","city":"Brooklyn","city_time":"2014-12-24 08:11:27","city_desc":"Troop","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
