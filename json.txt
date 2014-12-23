@@ -12,7 +12,7 @@
 {"city_id":"5","user_id":"7","city":"Atlantic","city_time":"2014-12-23 17:23:36","city_desc":"Troop","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"6","user_id":"7","city":"Chinatown","city_time":"2014-12-23 18:20:04","city_desc":"Chow Seafood + Proficiency Lv 17","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"7","user_id":"7","city":"Doria","city_time":"2016-04-05 18:24:37","city_desc":"---","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
-{"city_id":"8","user_id":"7","city":"Harlem","city_time":"2014-12-23 15:54:21","city_desc":"Guard Post Lv 6 + Troop","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
+{"city_id":"8","user_id":"7","city":"Harlem","city_time":"2014-12-23 17:52:15","city_desc":"Guard Post Lv 6 + Troop","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"9","user_id":"8","city":"First","city_time":"2014-12-25 02:12:59","city_desc":"Shooting Range Lv 9 + Troop--- + Trade + Attack Enemy","user_display":"Don Comp","user_troop":"Assasin","table":"city"}
 {"city_id":"10","user_id":"8","city":"Greenwich","city_time":"2014-12-24 14:36:30","city_desc":"Troop","user_display":"Don Comp","user_troop":"Assasin","table":"city"}
 {"city_id":"11","user_id":"8","city":"Brooklyn","city_time":"2014-12-24 08:36:25","city_desc":"Troop","user_display":"Don Comp","user_troop":"Assasin","table":"city"}
@@ -28,7 +28,7 @@
 {"city_id":"21","user_id":"5","city":"Atlantic","city_time":"2014-12-23 18:12:27","city_desc":"Troop---","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"22","user_id":"5","city":"Chinatown","city_time":"2014-12-23 18:43:48","city_desc":"Troop + Chow Seafood","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"23","user_id":"5","city":"Doria","city_time":"2016-04-17 06:31:03","city_desc":"","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
-{"city_id":"24","user_id":"5","city":"Harlem","city_time":"2014-12-23 15:47:57","city_desc":"mini Hide out + Garage Lv 9 + Troop","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
+{"city_id":"24","user_id":"5","city":"Harlem","city_time":"2014-12-23 17:23:29","city_desc":"mini Hide out + Garage Lv 9 + Troop","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"25","user_id":"4","city":"First","city_time":"2014-12-23 19:45:32","city_desc":"Armory Lv 11 + Troop + Trade + Resource","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"26","user_id":"4","city":"Greenwich","city_time":"2014-12-25 06:42:24","city_desc":"Troop","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"27","user_id":"4","city":"Brooklyn","city_time":"2014-12-23 20:17:36","city_desc":"Troop","user_display":"Donkey G","user_troop":"","table":"city"}
