@@ -13,6 +13,7 @@
 		<a href="<?php echo base_url(''); ?>" style="text-decoration: none;">Home</a> |
 		<a href="<?php echo base_url('user'); ?>" style="text-decoration: none;">User</a>
 	</div>
+	<div>5000 Kickback</div>
 	<div>Power : <?php echo MoneyFormat($power_sum); ?></div>
 	<div>20 Week for idle town</div>
 	<div>5 Production 49 City = 559 | 455</div>
