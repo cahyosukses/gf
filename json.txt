@@ -60,4 +60,4 @@
 {"city_id":"53","user_id":"2","city":"Atlantic","city_time":"2014-12-31 00:23:21","city_desc":"Mansion Lv 10 + Edna Lv 9 + Troop","user_display":"Trooper","user_troop":"","table":"city"}
 {"city_id":"54","user_id":"2","city":"Chinatown","city_time":"2014-12-31 00:23:47","city_desc":"Mansion Lv 10 + Deputy Mayor Lv 9 + Troop","user_display":"Trooper","user_troop":"","table":"city"}
 {"city_id":"55","user_id":"2","city":"Doria","city_time":"2015-05-17 16:00:43","city_desc":"","user_display":"Trooper","user_troop":"","table":"city"}
-{"city_id":"56","user_id":"2","city":"Harlem","city_time":"2014-12-29 15:42:06","city_desc":"mini Hide out + Garage Lv 9 + Corruption + Troop","user_display":"Trooper","user_troop":"","table":"city"}
+{"city_id":"56","user_id":"2","city":"Harlem","city_time":"2014-12-29 20:03:24","city_desc":"mini Hide out + Garage Lv 9 + Corruption + Troop","user_display":"Trooper","user_troop":"","table":"city"}
