@@ -1,12 +1,13 @@
 Capone II (Vendetta)
 
-Bermuda Triangle	548/450	01/05 10 AM
-Blue Oyster Bar	552/446	01/05 10 AM
-Capolandia	543/455	01/05 10 AM
-Harlem	553/441	01/05 10 AM
-MI Farmer	555/438	01/05 10 AM
-Mongolian camp	555/446	01/05 10 AM
-Rednecks farm	550/444	01/05 10 AM
+Capolandia            543/455	First
+Rednecks farm         550/444	Greenwich
+MI Farmer             555/438	Brooklin
+Bermuda Triangle      548/450	Park
+Blue Oyster Bar       552/446	Atlantic
+Mongolian camp        555/446	Chinatown
+Harlem                553/441	Harlem
+
 CityScape 10	530/419	01/05 10 AM
 CityScape 10	549/433	01/05 10 AM
 CityScape 10	553/421	01/05 10 AM
