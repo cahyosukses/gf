@@ -63,3 +63,4 @@
 {"city_id":"56","user_id":"2","city":"Harlem","city_time":"2015-01-18 01:43:57","city_desc":"Hide out Lv 8 + Garage Lv 9 + Corruption + Troop","user_display":"Trooper","user_troop":"-","table":"city"}
 
 
+
