@@ -61,3 +61,4 @@
 {"city_id":"54","user_id":"2","city":"Chinatown","city_time":"2015-01-16 20:43:36","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Trooper","user_troop":"-","table":"city"}
 {"city_id":"55","user_id":"2","city":"Doria","city_time":"2015-01-16 11:59:32","city_desc":"Weapon + Shoe","user_display":"Trooper","user_troop":"-","table":"city"}
 {"city_id":"56","user_id":"2","city":"Harlem","city_time":"2015-01-18 01:43:57","city_desc":"Hide out Lv 8 + Garage Lv 9 + Corruption + Troop","user_display":"Trooper","user_troop":"-","table":"city"}
+
