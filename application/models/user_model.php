@@ -51,7 +51,7 @@ class User_model extends CI_Model {
 		
 		$PageOffset = (isset($Param['start']) && !empty($Param['start'])) ? $Param['start'] : 0;
 		$PageLimit = (isset($Param['limit']) && !empty($Param['limit'])) ? $Param['limit'] : 50;
-        $StringSorting = (isset($Param['sort'])) ? GetStringSorting($Param['sort']) : 'user_id ASC';
+        $StringSorting = (isset($Param['sort'])) ? GetStringSorting($Param['sort']) : 'user_power ASC';
 		
 		$SelectQuery = "
 			SELECT User.*
