@@ -29,7 +29,7 @@
 {"city_id":"22","user_id":"5","city":"Chinatown","city_time":"2015-02-04 14:12:42","city_desc":"Troop + Clip Joint Lv 9","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"23","user_id":"5","city":"Doria","city_time":"2015-06-08 14:32:18","city_desc":"","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"24","user_id":"5","city":"Harlem","city_time":"2015-02-04 06:20:27","city_desc":"Troop + Hide out Lv 9 + Garage Lv 9 + Medicine Lv 18","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
-{"city_id":"25","user_id":"4","city":"First","city_time":"2015-02-03 15:33:02","city_desc":"Troop + Zoning + Haberdashery Lv 9 + Kickback","user_display":"Donkey G","user_troop":"","table":"city"}
+{"city_id":"25","user_id":"4","city":"First","city_time":"2015-02-04 02:41:43","city_desc":"Troop + Zoning + Haberdashery Lv 9 + Kickback","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"26","user_id":"4","city":"Greenwich","city_time":"2015-02-05 02:32:20","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"27","user_id":"4","city":"Brooklyn","city_time":"2015-02-04 21:03:31","city_desc":"Troop","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"28","user_id":"4","city":"Park","city_time":"2015-02-04 07:33:59","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"","table":"city"}
