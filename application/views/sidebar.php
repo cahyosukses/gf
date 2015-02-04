@@ -7,7 +7,7 @@
 	<div class="action">
 		<div class="update"><input type="button" name="EntryForm" value="Update Database" /></div>
 		<div class="commit"><input type="button" name="EntryForm" value="Generate TXT File" /></div>
-	</div>
+	</div><br />
 	<div><a href="https://www.kabam.com/games/the-godfather/play" target="_blank" style="text-decoration: none;">Play</a></div>
 	<div>
 		<a href="<?php echo base_url(''); ?>" style="text-decoration: none;">Home</a> |

@@ -33,7 +33,7 @@
 {"city_id":"26","user_id":"4","city":"Greenwich","city_time":"2015-02-05 02:32:20","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"27","user_id":"4","city":"Brooklyn","city_time":"2015-02-04 21:03:31","city_desc":"Troop","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"28","user_id":"4","city":"Park","city_time":"2015-02-04 07:33:59","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"","table":"city"}
-{"city_id":"29","user_id":"4","city":"Atlantic","city_time":"2015-02-03 17:18:17","city_desc":"Troop + Hospital Lv 9","user_display":"Donkey G","user_troop":"","table":"city"}
+{"city_id":"29","user_id":"4","city":"Atlantic","city_time":"2015-02-04 18:38:28","city_desc":"Troop + Edna Lv 9","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"30","user_id":"4","city":"Chinatown","city_time":"2015-02-04 18:18:39","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"31","user_id":"4","city":"Doria","city_time":"2015-06-07 14:23:35","city_desc":"","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"32","user_id":"4","city":"Harlem","city_time":"2015-02-05 05:12:14","city_desc":"Troop + Hide out Lv 9 + Garage","user_display":"Donkey G","user_troop":"","table":"city"}
