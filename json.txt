@@ -11,7 +11,7 @@
 {"city_id":"4","user_id":"7","city":"Park","city_time":"2015-02-10 13:48:27","city_desc":"Troop","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"5","user_id":"7","city":"Atlantic","city_time":"2015-02-10 13:48:49","city_desc":"Troop + Hotel Lv 9","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"6","user_id":"7","city":"Chinatown","city_time":"2015-02-09 14:05:08","city_desc":"Troop + Edna Lv 9","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
-{"city_id":"7","user_id":"7","city":"Doria","city_time":"2015-02-09 08:23:06","city_desc":"Shirt","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
+{"city_id":"7","user_id":"7","city":"Doria","city_time":"2015-02-09 10:55:09","city_desc":"Shoe","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"8","user_id":"7","city":"Harlem","city_time":"2015-02-09 15:49:04","city_desc":"Troop + Hide out Lv 7 + Medicine Lv 18","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"9","user_id":"8","city":"First","city_time":"2015-02-10 02:26:51","city_desc":"Troop + Hospital Lv 9 + Kickback","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"10","user_id":"8","city":"Greenwich","city_time":"2015-02-10 02:30:19","city_desc":"Troop + Research","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
@@ -19,7 +19,7 @@
 {"city_id":"12","user_id":"8","city":"Park","city_time":"2015-02-10 22:07:21","city_desc":"Troop","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"13","user_id":"8","city":"Atlantic","city_time":"2015-02-09 18:21:53","city_desc":"Troop + Hotel Lv 9","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"14","user_id":"8","city":"Chinatown","city_time":"2015-02-09 11:52:48","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
-{"city_id":"15","user_id":"8","city":"Doria","city_time":"2015-02-09 08:00:36","city_desc":"Pant","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
+{"city_id":"15","user_id":"8","city":"Doria","city_time":"2015-02-09 11:24:08","city_desc":"Pant","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"16","user_id":"8","city":"Harlem","city_time":"2015-02-09 15:53:38","city_desc":"Troop + Hide out Lv 9 + Muscle Lv 12 + Proficience Lv 17","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"17","user_id":"5","city":"First","city_time":"2015-02-09 22:26:38","city_desc":"Troop + Zoning + Shouting Range Lv 9 + Kickback","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"18","user_id":"5","city":"Greenwich","city_time":"2015-02-10 02:25:55","city_desc":"Troop","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
@@ -35,7 +35,7 @@
 {"city_id":"28","user_id":"4","city":"Park","city_time":"2015-02-11 06:32:06","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"29","user_id":"4","city":"Atlantic","city_time":"2015-02-09 12:43:06","city_desc":"Troop + Edna Lv 9","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"30","user_id":"4","city":"Chinatown","city_time":"2015-02-09 12:12:14","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Donkey G","user_troop":"","table":"city"}
-{"city_id":"31","user_id":"4","city":"Doria","city_time":"2015-02-09 08:32:07","city_desc":"Weapon","user_display":"Donkey G","user_troop":"","table":"city"}
+{"city_id":"31","user_id":"4","city":"Doria","city_time":"2015-02-09 11:03:33","city_desc":"Weapon","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"32","user_id":"4","city":"Harlem","city_time":"2015-02-09 15:32:26","city_desc":"Troop + Hide out Lv 9 + Garage + Research","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"33","user_id":"6","city":"First","city_time":"2015-02-09 22:42:20","city_desc":"Troop + Zoning + Shooting Range Lv 9 + Kickback","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"34","user_id":"6","city":"Greenwich","city_time":"2015-02-09 11:28:06","city_desc":"Troop","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
@@ -43,7 +43,7 @@
 {"city_id":"36","user_id":"6","city":"Park","city_time":"2015-02-10 19:10:38","city_desc":"Troop","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"37","user_id":"6","city":"Atlantic","city_time":"2015-02-11 10:34:05","city_desc":"Troop + Hotel Lv 9","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"38","user_id":"6","city":"Chinatown","city_time":"2015-02-11 10:34:27","city_desc":"Troop + Clip Joint Lv 9","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
-{"city_id":"39","user_id":"6","city":"Doria","city_time":"2015-02-09 08:03:18","city_desc":"Weapon","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
+{"city_id":"39","user_id":"6","city":"Doria","city_time":"2015-02-09 09:58:06","city_desc":"Weapon","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"40","user_id":"6","city":"Harlem","city_time":"2015-02-09 16:05:25","city_desc":"Troop + Hide out Lv 9 + Research","user_display":"Bunga Low","user_troop":"Black Widow","table":"city"}
 {"city_id":"41","user_id":"3","city":"First","city_time":"2015-02-09 11:15:53","city_desc":"Armory Lv 11 + Haberdashery Lv 9 + Research + Kickback","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"42","user_id":"3","city":"Greenwich","city_time":"2015-02-11 09:38:30","city_desc":"Research","user_display":"Cocout","user_troop":"","table":"city"}
