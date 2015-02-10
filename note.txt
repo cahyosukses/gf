@@ -8,14 +8,14 @@ Suckit Barzini	660/153	02/01 11 AM
 The Bone Yard	660/155	02/01 11 AM
 
 Grim Reaper
-Dark Sanctum	746/633	02/05 10 AM
-Death City	749/627	02/05 10 AM
-Forbidden City	744/632	02/05 10 AM
-Hell's Gate	748/629	02/05 10 AM
-Last Chance	0/629	02/05 10 AM
-Pandora City	0/627	02/05 10 AM
-Sin City	745/630	02/05 10 AM
-UnderWorld	747/631	02/05 10 AM
+Dark Sanctum			746/633	02/05 10 AM
+Death City				749/627	02/05 10 AM
+Forbidden City			744/632	02/05 10 AM
+Hell's Gate				748/629	02/05 10 AM
+Last Chance				0/629	02/05 10 AM
+Pandora City			0/627	02/05 10 AM
+Sin City				745/630	02/05 10 AM
+UnderWorld				747/631	02/05 10 AM
 
 Respect
 
