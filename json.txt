@@ -5,7 +5,7 @@
 {"table":"user","user_id":"6","user_power":"980376","user_troop":"Black Widow"}
 {"table":"user","user_id":"3","user_power":"1014468","user_troop":""}
 {"table":"user","user_id":"2","user_power":"1326540","user_troop":"-"}
-{"city_id":"1","user_id":"7","city":"First","city_time":"2015-02-12 08:02:55","city_desc":"Troop + Zoning (2) + Hospital Lv 9","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
+{"city_id":"1","user_id":"7","city":"First","city_time":"2015-02-14 05:49:17","city_desc":"Troop + Zoning (2) + Hospital Lv 9","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"2","user_id":"7","city":"Greenwich","city_time":"2015-02-13 03:05:08","city_desc":"Troop + Research + Hide out Lv 11","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"3","user_id":"7","city":"Brooklyn","city_time":"2015-02-12 20:38:28","city_desc":"Troop + Research","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
 {"city_id":"4","user_id":"7","city":"Park","city_time":"2015-02-12 21:05:43","city_desc":"Troop","user_display":"Bunawas","user_troop":"Black Widow","table":"city"}
