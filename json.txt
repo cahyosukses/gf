@@ -16,11 +16,11 @@
 {"city_id":"9","user_id":"8","city":"First","city_time":"2015-02-17 17:42:42","city_desc":"Troop + Hospital Lv 9","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"10","user_id":"8","city":"Greenwich","city_time":"2015-02-18 03:10:48","city_desc":"Troop","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"11","user_id":"8","city":"Brooklyn","city_time":"2015-02-18 17:46:32","city_desc":"Troop + Research","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
-{"city_id":"12","user_id":"8","city":"Park","city_time":"2015-02-17 09:09:49","city_desc":"Troop","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
+{"city_id":"12","user_id":"8","city":"Park","city_time":"2015-02-18 22:06:54","city_desc":"Troop","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"13","user_id":"8","city":"Atlantic","city_time":"2015-02-19 03:49:12","city_desc":"Troop + Hotel Lv 9","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"14","user_id":"8","city":"Chinatown","city_time":"2015-02-18 22:40:47","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"15","user_id":"8","city":"Doria","city_time":"2015-07-01 13:48:38","city_desc":"","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
-{"city_id":"16","user_id":"8","city":"Harlem","city_time":"2015-02-17 16:02:45","city_desc":"Troop + Armory Lv 9 + Muscle Lv 12","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
+{"city_id":"16","user_id":"8","city":"Harlem","city_time":"2015-02-18 04:05:24","city_desc":"Troop + Armory Lv 9 + Muscle Lv 12","user_display":"Don Comp","user_troop":"Black Widow<br \/>20\/50K","table":"city"}
 {"city_id":"17","user_id":"5","city":"First","city_time":"2015-02-17 07:10:28","city_desc":"Troop + Zoning + Shouting Range Lv 9","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"18","user_id":"5","city":"Greenwich","city_time":"2015-02-18 06:13:49","city_desc":"Troop","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"19","user_id":"5","city":"Brooklyn","city_time":"2015-02-19 21:36:07","city_desc":"Troop","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
