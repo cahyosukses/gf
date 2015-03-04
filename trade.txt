@@ -1,15 +1,14 @@
-To trade with your Screws/Panels ( m : y )
+To trade with your Plank/Land Deed/Marker Stake ( m : y )
 
-Nail(250) ( 5 : 4 )
-Axe(147) ( 3 : 1 )
-Saw(31) ( 3 : 1 )
+Bold(15) ( 1 : 1 )
+Duct Tape(15) ( 1 : 1 )
 
 Note:
-
-- Price at default
+- Price at max
 - Kik only please
+- Lower level sells first
 --------------------
 
-Level: 108
-Kik : sPut_nIk
-Device: Android (trade via fb or nh only)
+Level: 42
+Kik : her0satr
+Device: Android (trade via fb : Herry Satrio)
