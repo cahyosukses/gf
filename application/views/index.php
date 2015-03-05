@@ -1,5 +1,5 @@
 <?php
-	$ArrayCity = $this->City_model->GetArray(array( 'limit' => 150 ));
+	$ArrayCity = $this->City_model->get_array_index(array( 'limit' => 150 ));
 ?>
 <?php $this->load->view( 'meta' ); ?>
 <body>
@@ -13,7 +13,7 @@
 					
 				<?php } else { ?>
 					<span class="UserAccess cursor"><?php echo $Array['user_display']; ?></span>
-					<div class="troop" style="position: absolute; top: 15px; left: 0px;;"><?php echo (empty($Array['user_troop'])) ? '-' : $Array['user_troop']; ?></div>
+					<div class="troop" style="position: absolute; top: 15px; left: 0px;"><?php echo (empty($Array['user_troop'])) ? '-' : $Array['user_troop']; ?></div>
 				<?php } ?>
 			</div>
 			<div class="Display"><?php echo $Array['city']; ?></div>

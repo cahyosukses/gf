@@ -70,6 +70,29 @@ class City_model extends CI_Model {
 		return $Array;
 	}
 	
+	function get_array_index($param = array()) {
+		$first_id = $second_id = 0;
+		$array_result = $array_second_user = array();
+		$array = $this->GetArray($param);
+		foreach ($array as $key => $row) {
+			// update user id
+			if (empty($key)) {
+				$first_id = $row['user_id'];
+			}
+			
+			// insert row
+			if ($first_id != $row['user_id'] && ($second_id == 0 || $second_id == $row['user_id'])) {
+				$second_id = $row['user_id'];
+				$array_second_user[] = $row;
+			} else {
+				$array_result[] = $row;
+			}
+		}
+		
+		$result = array_merge($array_result, $array_second_user);
+		return $result;
+	}
+	
 	function GetCount($Param = array()) {
 		$TotalRecord = 0;
 		
