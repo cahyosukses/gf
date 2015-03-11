@@ -16,11 +16,11 @@
 {"city_id":"9","user_id":"8","city":"First","city_time":"2015-03-12 14:06:44","city_desc":"Troop + Haberdashery Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
 {"city_id":"10","user_id":"8","city":"Greenwich","city_time":"2015-03-12 14:28:54","city_desc":"Troop + Research","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
 {"city_id":"11","user_id":"8","city":"Brooklyn","city_time":"2015-03-11 15:07:24","city_desc":"Troop + Research","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"12","user_id":"8","city":"Park","city_time":"2015-03-10 22:26:47","city_desc":"Troop","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"13","user_id":"8","city":"Atlantic","city_time":"2015-03-11 02:12:18","city_desc":"Troop + Edna Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"14","user_id":"8","city":"Chinatown","city_time":"2015-03-11 01:27:45","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
+{"city_id":"12","user_id":"8","city":"Park","city_time":"2015-03-13 08:11:31","city_desc":"Troop","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
+{"city_id":"13","user_id":"8","city":"Atlantic","city_time":"2015-03-12 21:09:59","city_desc":"Troop + Edna Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
+{"city_id":"14","user_id":"8","city":"Chinatown","city_time":"2015-03-13 12:14:23","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
 {"city_id":"15","user_id":"8","city":"Doria","city_time":"2015-07-01 13:48:38","city_desc":"","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"16","user_id":"8","city":"Harlem","city_time":"2015-03-11 02:40:47","city_desc":"Troop + Muscle Lv 12","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
+{"city_id":"16","user_id":"8","city":"Harlem","city_time":"2015-03-11 12:16:17","city_desc":"Troop + Muscle Lv 12","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
 {"city_id":"17","user_id":"5","city":"First","city_time":"2015-03-11 02:59:12","city_desc":"Troop + Zoning + Shouting Range Lv 9","user_display":"Kepetet","user_troop":"John Doe","table":"city"}
 {"city_id":"18","user_id":"5","city":"Greenwich","city_time":"2015-03-11 07:07:25","city_desc":"Troop + Research","user_display":"Kepetet","user_troop":"John Doe","table":"city"}
 {"city_id":"19","user_id":"5","city":"Brooklyn","city_time":"2015-03-11 09:07:50","city_desc":"Troop + Research","user_display":"Kepetet","user_troop":"John Doe","table":"city"}
