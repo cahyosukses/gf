@@ -2,7 +2,7 @@
 {"table":"user","user_id":"6","user_power":"1612282","user_troop":"John Doe"}
 {"table":"user","user_id":"8","user_power":"1613734","user_troop":"John Doe"}
 {"table":"user","user_id":"4","user_power":"1622383","user_troop":"-"}
-{"table":"user","user_id":"7","user_power":"1707425","user_troop":"John Doe"}
+{"table":"user","user_id":"7","user_power":"1707425","user_troop":""}
 {"table":"user","user_id":"3","user_power":"1740600","user_troop":""}
 {"table":"user","user_id":"2","user_power":"1993183","user_troop":"John Doe"}
 {"city_id":"1","user_id":"5","city":"First","city_time":"2015-03-25 00:08:15","city_desc":"Troop + Zoning + Haberdashery Lv 9","user_display":"Kepetet","user_troop":"John Doe","table":"city"}
@@ -22,34 +22,34 @@
 {"city_id":"15","user_id":"6","city":"Doria","city_time":"2015-07-01 19:31:32","city_desc":"","user_display":"Bunga Low","user_troop":"John Doe","table":"city"}
 {"city_id":"16","user_id":"6","city":"Harlem","city_time":"2015-03-25 05:28:56","city_desc":"Troop + Armory Lv 9 + Research","user_display":"Bunga Low","user_troop":"John Doe","table":"city"}
 {"city_id":"17","user_id":"8","city":"First","city_time":"2015-03-24 09:42:06","city_desc":"Troop + Haberdashery Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"18","user_id":"8","city":"Greenwich","city_time":"2015-03-22 08:20:36","city_desc":"Troop + Research","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
+{"city_id":"18","user_id":"8","city":"Greenwich","city_time":"2015-03-28 09:32:35","city_desc":"Troop + Research","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
 {"city_id":"19","user_id":"8","city":"Brooklyn","city_time":"2015-03-24 03:42:29","city_desc":"Troop + Research","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
 {"city_id":"20","user_id":"8","city":"Park","city_time":"2015-08-04 20:19:15","city_desc":"Troop","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"21","user_id":"8","city":"Atlantic","city_time":"2015-03-21 13:22:16","city_desc":"Troop + Edna Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"22","user_id":"8","city":"Chinatown","city_time":"2015-03-23 16:51:19","city_desc":"Troop + Edna Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
+{"city_id":"21","user_id":"8","city":"Atlantic","city_time":"2015-03-28 09:30:08","city_desc":"Troop + Edna Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
+{"city_id":"22","user_id":"8","city":"Chinatown","city_time":"2015-03-24 12:29:15","city_desc":"Troop + Edna Lv 9","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
 {"city_id":"23","user_id":"8","city":"Doria","city_time":"2015-07-01 13:48:38","city_desc":"","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"24","user_id":"8","city":"Harlem","city_time":"2015-03-22 18:07:19","city_desc":"Troop + Muscle Lv 12","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
-{"city_id":"25","user_id":"4","city":"First","city_time":"2015-03-20 21:32:21","city_desc":"Troop + Zoning + Marnie Garden Lv 9 + Set Formation","user_display":"Donkey G","user_troop":"-","table":"city"}
-{"city_id":"26","user_id":"4","city":"Greenwich","city_time":"2015-03-23 19:32:55","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"-","table":"city"}
+{"city_id":"24","user_id":"8","city":"Harlem","city_time":"2015-03-24 05:28:30","city_desc":"Troop + Muscle Lv 12","user_display":"Don Comp","user_troop":"John Doe","table":"city"}
+{"city_id":"25","user_id":"4","city":"First","city_time":"2015-03-26 00:42:58","city_desc":"Troop + Zoning + Marnie Garden Lv 9 + Set Formation","user_display":"Donkey G","user_troop":"-","table":"city"}
+{"city_id":"26","user_id":"4","city":"Greenwich","city_time":"2015-03-28 09:43:14","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"-","table":"city"}
 {"city_id":"27","user_id":"4","city":"Brooklyn","city_time":"2015-08-04 20:25:57","city_desc":"Troop","user_display":"Donkey G","user_troop":"-","table":"city"}
 {"city_id":"28","user_id":"4","city":"Park","city_time":"2015-03-24 03:53:05","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"-","table":"city"}
-{"city_id":"29","user_id":"4","city":"Atlantic","city_time":"2015-03-22 07:05:28","city_desc":"Troop + Haberdashery Lv 9","user_display":"Donkey G","user_troop":"-","table":"city"}
-{"city_id":"30","user_id":"4","city":"Chinatown","city_time":"2015-03-20 18:53:21","city_desc":"Troop + Picalilly Lv 9","user_display":"Donkey G","user_troop":"-","table":"city"}
+{"city_id":"29","user_id":"4","city":"Atlantic","city_time":"2015-03-26 00:43:33","city_desc":"Troop + Haberdashery Lv 9","user_display":"Donkey G","user_troop":"-","table":"city"}
+{"city_id":"30","user_id":"4","city":"Chinatown","city_time":"2015-03-25 12:43:49","city_desc":"Troop + Picalilly Lv 9","user_display":"Donkey G","user_troop":"-","table":"city"}
 {"city_id":"31","user_id":"4","city":"Doria","city_time":"2015-07-02 19:45:17","city_desc":"","user_display":"Donkey G","user_troop":"-","table":"city"}
-{"city_id":"32","user_id":"4","city":"Harlem","city_time":"2015-03-21 23:59:54","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"-","table":"city"}
-{"city_id":"33","user_id":"7","city":"First","city_time":"2015-03-23 10:13:00","city_desc":"Troop + Zoning (3) + Haberdashery Lv 9","user_display":"Bunawas","user_troop":"John Doe","table":"city"}
-{"city_id":"34","user_id":"7","city":"Greenwich","city_time":"2015-03-23 00:09:30","city_desc":"Troop + Research","user_display":"Bunawas","user_troop":"John Doe","table":"city"}
-{"city_id":"35","user_id":"7","city":"Brooklyn","city_time":"2015-03-23 00:09:32","city_desc":"Troop + Research","user_display":"Bunawas","user_troop":"John Doe","table":"city"}
-{"city_id":"36","user_id":"7","city":"Park","city_time":"2015-08-04 20:30:45","city_desc":"Troop","user_display":"Bunawas","user_troop":"John Doe","table":"city"}
-{"city_id":"37","user_id":"7","city":"Atlantic","city_time":"2015-03-22 12:37:40","city_desc":"Troop + Edna Lv 9","user_display":"Bunawas","user_troop":"John Doe","table":"city"}
-{"city_id":"38","user_id":"7","city":"Chinatown","city_time":"2015-03-21 20:12:14","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Bunawas","user_troop":"John Doe","table":"city"}
-{"city_id":"39","user_id":"7","city":"Doria","city_time":"2015-07-01 17:38:12","city_desc":"","user_display":"Bunawas","user_troop":"John Doe","table":"city"}
-{"city_id":"40","user_id":"7","city":"Harlem","city_time":"2015-03-22 08:32:19","city_desc":"Troop + Medicine Lv 18","user_display":"Bunawas","user_troop":"John Doe","table":"city"}
-{"city_id":"41","user_id":"3","city":"First","city_time":"2015-03-21 07:02:28","city_desc":"Troop + Zoning + Mernie Garden Lv 9 + Research","user_display":"Cocout","user_troop":"","table":"city"}
+{"city_id":"32","user_id":"4","city":"Harlem","city_time":"2015-03-26 11:35:47","city_desc":"Troop + Research","user_display":"Donkey G","user_troop":"-","table":"city"}
+{"city_id":"33","user_id":"7","city":"First","city_time":"2015-03-25 12:57:25","city_desc":"Troop + Zoning (3) + Picalilly Lv 9","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"34","user_id":"7","city":"Greenwich","city_time":"2015-03-28 09:57:38","city_desc":"Troop + Research","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"35","user_id":"7","city":"Brooklyn","city_time":"2015-03-28 09:57:52","city_desc":"Troop + Research","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"36","user_id":"7","city":"Park","city_time":"2015-08-04 20:30:45","city_desc":"Troop","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"37","user_id":"7","city":"Atlantic","city_time":"2015-03-25 14:58:23","city_desc":"Troop + Convention Center Lv 9","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"38","user_id":"7","city":"Chinatown","city_time":"2015-03-26 21:58:35","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"39","user_id":"7","city":"Doria","city_time":"2015-07-01 17:38:12","city_desc":"","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"40","user_id":"7","city":"Harlem","city_time":"2015-03-28 09:48:41","city_desc":"Troop + Medicine Lv 18","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"41","user_id":"3","city":"First","city_time":"2015-03-24 05:08:24","city_desc":"Troop + Zoning + Mernie Garden Lv 9 + Research","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"42","user_id":"3","city":"Greenwich","city_time":"2015-03-24 04:02:45","city_desc":"Troop + Research","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"43","user_id":"3","city":"Brooklyn","city_time":"2015-03-24 04:02:58","city_desc":"Troop + Research","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"44","user_id":"3","city":"Park","city_time":"2015-03-24 04:03:11","city_desc":"Troop + Research","user_display":"Cocout","user_troop":"","table":"city"}
-{"city_id":"45","user_id":"3","city":"Atlantic","city_time":"2015-03-21 22:03:32","city_desc":"Troop + Hospital Lv 9","user_display":"Cocout","user_troop":"","table":"city"}
+{"city_id":"45","user_id":"3","city":"Atlantic","city_time":"2015-03-26 22:08:10","city_desc":"Troop + Hospital Lv 9","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"46","user_id":"3","city":"Chinatown","city_time":"2015-03-24 08:03:48","city_desc":"Troop + Deputy Mayor Lv 9","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"47","user_id":"3","city":"Doria","city_time":"2015-06-28 06:49:04","city_desc":"","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"48","user_id":"3","city":"Harlem","city_time":"2015-03-28 14:42:46","city_desc":"Troop + Guest House Lv 9 + Troop","user_display":"Cocout","user_troop":"","table":"city"}
