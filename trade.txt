@@ -23,6 +23,8 @@ Device: Android (trade via fb : Herry Satrio)
 60 syrup 					: 10 planks/15 bolts/20 tape
 70 brown sugar				: 10 planks/15 bolts/20 tape
 30 lobsters					: 10 planks/15 bolts/20 tape
+30 axe/saw					: 6 planks/10 bolts/15 tape
+
 
 
 
