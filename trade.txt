@@ -5,7 +5,6 @@
 50 cheese 					: 10 planks
 40 goat cheese 				: 10 planks
 60 juice mix ( no carrot )	: 10 planks
-60 syrup 					: 10 planks
 30 lobster					: 10 planks
 30 axe/saw					: 6 planks
 40 jam						: 10 planks
@@ -15,76 +14,29 @@
 40 sandwich 				: 10 planks
 30 lobster pizza 			: 10 bolts
 50 olive oil 				: 10 planks
-60 fish fillets				: 10 planks
-40 fish burgers				: 15 planks
+50 fish fillet				: 10 planks
+40 fish burger				: 10 planks
 40 fies pie					: 10 planks
-20 cookie					: 5 planks
+40 cookie					: 10 planks
+50 syrup					: 10 planks
 40 apple pie				: 10 planks
 50 dynamite					: 10 planks
-30 popsicle					: 10 planks 
+40 popsicle					: 10 planks 
 60 axe / saw				: 10 planks
+40 ice cream mix			: 10 planks
+30 cheese cake				: 10 planks
+30 fish and chips			: 10 planks
+30 feta pie					: 10 planks
 
-Each of item for ur 7 planks
-20 cheese cake 
-10 lobster sushi + 10 egg sushi 
-20 fish chip 
-20 feta pie 
-20 mix ice cream 
-20 fish burger 
-20 casseroll 
-20 strawberry cake 
-20 feta cake 
-10 strawberry + 10 raspberry candle
-20 chocolate cake
-20 lemon cake 
-10 cream cake + 10 honey apple cake 
-20 mix jam 
-10 blt + 10 feta salad 
-20 fish soup
-
-
-
-
-Warping dengan Kopi dibandara
-
-
-
-
-
-4 mixed jams for 1 planks 
-1 mixed cakes for 1 plank 
-27 feathers for 7 plank 
-34 mixed ice creams for 8 plank 
-12 cookie for 3 plank 
+27 feather for 7 plank 
 28 beeswax for 7 plank 
-85 mixed sem (nail and panel and screw) for 21 plank 
-12 syrup for 3 plank 
-12 white sugar for 3 plank 
 31 mixes bars for 7 planks 
-20 mixed coffee products for 5 plank 
-8 mixed juices for 2 plank
+20 mixed coffee products for 5 plank
 
-
-30 eSkrim mix = 10 PAPAN
-5 my planks (BP) for 20 your fish burger (FP)
-10 my planks for 50 your lobster tail
-
-
-
-
-
-
-
-goat cheese = 30 planks
-fish fillets = 50 planks
-creams = 70 planks
-cakes = 40 (120 in stock) planks
-syrup = 40 ( 80 in stock) planks
-white sugar = 70 planks
-fish and chips = 35 planks
-cherry popsicle = 40 planks
-cookies = 40 planks
-candles = 30 planks
-beeswax = 25 planks
-mix ice cream = 40 planks
-gold bars = 30 planks
+50 kue wortel + 10 cheesecake =>> 20 baut
+20 koserol =>> 8 baut
+20 pai ikan =>> 8 baut
+30 sushi roll =>> 14 baut
+40 mix eskrim 4 rasa =>> 10 papan
+20 sup labu =>> 9 baut
+30 Dynamit + 30 TNT =>> 25 baut
