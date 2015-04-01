@@ -6,13 +6,13 @@
 40 goat cheese 				: 10 planks
 60 juice mix ( no carrot )	: 10 planks
 30 lobster					: 10 planks
-30 axe/saw					: 6 planks
+50 axe/saw					: 10 planks
 40 jam						: 10 planks
 60 soups					: 20 planks
 40 butter pop 				: 10 planks
 35 salad					: 10 planks
 40 sandwich 				: 10 planks
-30 lobster pizza 			: 10 bolts
+30 lobster pizza 			: 10 planks
 50 olive oil 				: 10 planks
 50 fish fillet				: 10 planks
 40 fish burger				: 10 planks
@@ -27,16 +27,16 @@
 30 cheese cake				: 10 planks
 30 fish and chips			: 10 planks
 30 feta pie					: 10 planks
+40 casserole				: 10 planks
+40 potato bread				: 10 planks
+20 fishburger				: 10 planks
+40 apple pie				: 10 planks
+60 dynamite/tnt				: 10 planks
+30 shovel/pickaxe			: 10 planks
+40 feather					: 10 plank 
 
-27 feather for 7 plank 
 28 beeswax for 7 plank 
 31 mixes bars for 7 planks 
 20 mixed coffee products for 5 plank
 
-50 kue wortel + 10 cheesecake =>> 20 baut
-20 koserol =>> 8 baut
-20 pai ikan =>> 8 baut
-30 sushi roll =>> 14 baut
-40 mix eskrim 4 rasa =>> 10 papan
-20 sup labu =>> 9 baut
-30 Dynamit + 30 TNT =>> 25 baut
+
