@@ -45,16 +45,15 @@
 
 I have SEM/saw/cake/juice/jam
 
+my 1 saw for 1 your axe
 my 2 sem for 1 your bem
-my 2 honey popcorn for 1 bem
-my 2 iron bracelet / bracelet / necklace for 1 bem
-my 25 saw for 25 axe
-my 10 gold bar for your 10 silver bar
-my 20 brown sugar for 6 bolt / 6 tape
-my 50 saw for 10 plank / 20 bolt / 20 tape
-my 31 cake (19 carrot + 12 chocholate) for 12 bolt / 12 tape
-my 23 juice (9 berry + 19 tomato + 2 cerry + 3 apple) for 4 bem
-my 36 jam (8 rasberry + 8 apple + 11 cherry + 9 blackberry) for 20 bem
+my 1 gold bar for your 1 silver bar
+my 2 honey popcorn for 1 bolt / 2 sem
+my 3 jeweler product for 1 bolt / 2 sem
+my 50 saw for 10 plank / 20 bolt / 25 tape
+my 42 jam for 10 plank / 20 bolt / 25 tape
+my 54 juice for 10 plank / 20 bolt / 25 tape
+
 
 Note:
 - i come first
