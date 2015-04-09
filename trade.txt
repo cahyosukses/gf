@@ -43,17 +43,17 @@
 
 -----------------------------------------------------------------
 
-I have SEM/saw/cake/juice/jam
+I have SEM / saw / juice
 
-my 1 saw for 1 your axe
-my 2 sem for 1 your bem
+my 1 saw for 1 your axe (min 50)
+my 2 sem for 1 your bem (min 10)
 my 1 gold bar for your 1 silver bar
 my 2 honey popcorn for 1 bolt / 2 sem
 my 3 jeweler product for 1 bolt / 2 sem
 my 50 saw for 10 plank / 20 bolt / 25 tape
-my 42 jam for 10 plank / 20 bolt / 25 tape
+my 26 cake (carrot + chocholate) for 8 tape
 my 54 juice for 10 plank / 20 bolt / 25 tape
-
+my 36 ice cream for 10 plank / 20 bolt / 25 tape
 
 Note:
 - i come first
