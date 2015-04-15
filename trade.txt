@@ -34,6 +34,7 @@
 60 dynamite/tnt				: 10 planks
 30 shovel/pickaxe			: 10 planks
 40 feather					: 10 planks
+60 honey					: 10 planks
 
 -----------------------------------------------------------------
 
@@ -46,14 +47,14 @@ my 24 dynamites for your 6 panels/ nails (4:1)
 
 looking SEM / BEM
 
-my 2 sem for your 1 bem
-my 5 lem for your 1 bem / 2 sem
-my 1 gold bar for your 1 silver bar
-my 5 ice cream for your 1 bem / 2 sem
-my 30 fish fillet for 5 plank / 10 bolt
-my 30 butter for 15 tape
-my 15 cookie for 5 bolt / 5 tape
-my 90 juice (no carrot) for 20 bolt / 25 tape
+my 15 cookie for 5 bolt / 5 tape / 10 sem
+my 30 honey for 10 bolt / 13 tape / 20 sem
+my 35 brown sugar for 10 bolt / 13 tape / 20 sem
+
+
+
+
+
 
 Note:
 - i come first
@@ -63,3 +64,6 @@ Note:
 Level: 46
 Kik : her0satr
 Device: Android (trade via fb : Herry Satrio)
+
+
+19 dynamite + 19 tnt + 6 shovel + 3 pickaxe
