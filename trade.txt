@@ -34,7 +34,7 @@
 60 dynamite/tnt				: 10 planks
 30 shovel/pickaxe			: 10 planks
 40 feather					: 10 planks
-60 honey					: 10 planks
+50 honey					: 10 planks
 
 -----------------------------------------------------------------
 
@@ -43,27 +43,68 @@
 20 mixed coffee products for 5 plank
 my 24 dynamites for your 6 panels/ nails (4:1)
 
+160 jellybeans for tapes / bolts 1:1
+140 pillows for tapes / bolts 1:1
+130 chocolates for tapes / bolts 1:1
+100 caramel apples for tapes / bolts 1:1
+130 mixed jams for tapes / bolts 15:10
+75 blankets for tapes / bolts 1:1
+
+
 -----------------------------------------------------------------
 
 looking SEM / BEM
 
-my 30 cookie for 10 bolt / 13 tape / 20 sem
-my 35 honey jar for 10 bolt / 13 tape / 20 sem
-my 70 brown sugar for 10 plank / 20 bolt / 25 tape
 
-
-https://www.facebook.com/atu.permata => punya 65 gula coklat belum diambil
-
-
-
-Note:
-- i come first
-- Price at max
-- Kik only please
+my 20 syrup for 5 plank / 10 bolt / 10 tape
+my 80 cream for 10 plank / 20 bolt / 20 tape
+my 60 cookie for 10 plank / 20 bolt / 20 tape
+my 50 honey jar for 10 plank / 20 bolt / 20 tape
+my 28 white sugar for 5 plank / 10 bolt / 10 tape
+my 60 fish fillet for 10 plank / 20 bolt / 20 tape
+my 80 brown sugar for 10 plank / 20 bolt / 20 tape
+my 35 lobster tail for 10 plank / 20 bolt / 20 tape
 --------------------
-Level: 46
-Kik : her0satr
-Device: Android (trade via fb : Herry Satrio)
+each 40 item below for 10 plank / 20 bolt / 20 tape
+26 diamond ring
+16 goat cheese
+13 cheese
+13 cream cake
+13 tomato soup
+13 straberry cake
+12 espresso
+11 rasberry mocha
+11 necklace
+11 buttered popcorn
+10 fish and chips
+10 fish burger
+10 caffe latte
+10 refined coal
+10 iron bar
+6 honey popcorn
+--------------------
+full price both side
 
 
-19 dynamite + 19 tnt + 6 shovel + 3 pickaxe
+my 20 lem for 10 plank / 20 bolt / 20 tape
+
+
+
+--------------------
+bem : full price both side
+sem : default price both side
+
+
+
+
+
+
+
+
+order : 
+https://www.facebook.com/mark.wizare => pesen kapak => my 60 exe for 10 plank / 20 bolt / 20 tape
+https://www.facebook.com/huenghi.tao => pesen lobster => my 35 lobster tail for 10 plank / 20 bolt / 20 tape
+https://www.facebook.com/diki.saputra.18294053 => pesen papan => my 10 plank for 50 sem
+
+
+
