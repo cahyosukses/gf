@@ -5,7 +5,7 @@
 {"table":"user","user_id":"7","user_power":"1707425","user_troop":""}
 {"table":"user","user_id":"3","user_power":"1740600","user_troop":""}
 {"table":"user","user_id":"2","user_power":"1993183","user_troop":"0"}
-{"city_id":"1","user_id":"5","city":"First","city_time":"2015-06-11 19:55:26","city_desc":"Troop + Haberdashery Lv 9","user_display":"Kepetet","user_troop":"","table":"city"}
+{"city_id":"1","user_id":"5","city":"First","city_time":"2015-06-13 11:21:21","city_desc":"Troop + Haberdashery Lv 9","user_display":"Kepetet","user_troop":"","table":"city"}
 {"city_id":"2","user_id":"5","city":"Greenwich","city_time":"2015-06-12 21:59:09","city_desc":"Troop + Proficiency Lv 20","user_display":"Kepetet","user_troop":"","table":"city"}
 {"city_id":"3","user_id":"5","city":"Brooklyn","city_time":"2015-06-12 22:39:19","city_desc":"Troop + Proficiency Lv 20","user_display":"Kepetet","user_troop":"","table":"city"}
 {"city_id":"4","user_id":"5","city":"Park","city_time":"2015-10-13 06:32:38","city_desc":"Troop","user_display":"Kepetet","user_troop":"","table":"city"}
@@ -28,8 +28,8 @@
 {"city_id":"21","user_id":"8","city":"Atlantic","city_time":"2015-06-14 10:14:56","city_desc":"Troop + Convension Center Lv 9","user_display":"Don Comp","user_troop":"","table":"city"}
 {"city_id":"22","user_id":"8","city":"Chinatown","city_time":"2015-06-15 01:28:34","city_desc":"Troop + Hospital Lv 9","user_display":"Don Comp","user_troop":"","table":"city"}
 {"city_id":"23","user_id":"8","city":"Doria","city_time":"2015-07-01 13:48:38","city_desc":"","user_display":"Don Comp","user_troop":"","table":"city"}
-{"city_id":"24","user_id":"8","city":"Harlem","city_time":"2015-06-11 17:13:27","city_desc":"Troop + Muscle Lv 12","user_display":"Don Comp","user_troop":"","table":"city"}
-{"city_id":"25","user_id":"8","city":"Italy","city_time":"2015-06-11 16:57:37","city_desc":"Assasin","user_display":"Don Comp","user_troop":"","table":"city"}
+{"city_id":"24","user_id":"8","city":"Harlem","city_time":"2015-06-12 10:10:28","city_desc":"Troop + Muscle Lv 12","user_display":"Don Comp","user_troop":"","table":"city"}
+{"city_id":"25","user_id":"8","city":"Italy","city_time":"2015-06-12 02:24:29","city_desc":"Assasin","user_display":"Don Comp","user_troop":"","table":"city"}
 {"city_id":"26","user_id":"4","city":"First","city_time":"2015-06-14 01:07:04","city_desc":"Troop + Picalilly Lv 9","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"27","user_id":"4","city":"Greenwich","city_time":"2015-06-12 22:05:53","city_desc":"Troop + Proficiency Lv 20","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"28","user_id":"4","city":"Brooklyn","city_time":"2015-10-24 11:11:30","city_desc":"Troop","user_display":"Donkey G","user_troop":"","table":"city"}
@@ -38,7 +38,7 @@
 {"city_id":"31","user_id":"4","city":"Chinatown","city_time":"2015-06-12 13:34:07","city_desc":"Troop + Hospital Lv 9","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"32","user_id":"4","city":"Doria","city_time":"2015-07-02 19:45:17","city_desc":"","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"33","user_id":"4","city":"Harlem","city_time":"2015-06-13 20:43:21","city_desc":"Troop + Proficiency","user_display":"Donkey G","user_troop":"","table":"city"}
-{"city_id":"34","user_id":"7","city":"First","city_time":"2015-06-11 17:39:11","city_desc":"Troop + Zoning + Picalilly Lv 9","user_display":"Bunawas","user_troop":"","table":"city"}
+{"city_id":"34","user_id":"7","city":"First","city_time":"2015-06-13 09:29:41","city_desc":"Troop + Picalilly Lv 9","user_display":"Bunawas","user_troop":"","table":"city"}
 {"city_id":"35","user_id":"7","city":"Greenwich","city_time":"2015-06-12 22:10:30","city_desc":"Troop + Proficiency Lv 20","user_display":"Bunawas","user_troop":"","table":"city"}
 {"city_id":"36","user_id":"7","city":"Brooklyn","city_time":"2015-06-13 06:04:26","city_desc":"Troop + Muscle Lv 20","user_display":"Bunawas","user_troop":"","table":"city"}
 {"city_id":"37","user_id":"7","city":"Park","city_time":"2015-10-11 18:20:56","city_desc":"Troop","user_display":"Bunawas","user_troop":"","table":"city"}
