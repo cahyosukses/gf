@@ -15,10 +15,10 @@
 	</div>
 	<br />
 	
-	<div>5000 Kickback</div>
 	<div>Power : <?php echo MoneyFormat($power_sum); ?></div>
 	<div>20 Week for idle town</div>
 	<div>5 Production 49 City = 559 | 455</div>
+	<div>1500 min Black Widow for all town</div>
 	<div>Penthouse Box max 100, power lebih utama</div>
 	<div style="padding: 10px 0 0 0;">
 		Attack ISB<br />
