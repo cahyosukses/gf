@@ -19,7 +19,9 @@
 	<div>20 Week for idle town</div>
 	<div>5 Production 49 City = 559 | 455</div>
 	<div>1500 min Black Widow for all town</div>
-	<div>Penthouse Box max 100, power lebih utama</div>
+	<div style="padding: 0 0 25px 0;">Penthouse Box max 100, power lebih utama</div>
+	<div style="padding: 0 0 25px 0;">Murder Inc Lv 1<br />700 Assassin + 70 Black Widow + 70 Transport</div>
+	<div>Murder Inc Lv 2<br />10000 DRC + 1000 Black Widow + 250 Thug + 500 Transport</div>
 	<div style="padding: 10px 0 0 0;">
 		Attack ISB<br />
 		Daily Token<br />
