@@ -55,10 +55,10 @@
 {"city_id":"48","user_id":"6","city":"Doria","city_time":"2015-07-29 16:31:57","city_desc":"","user_display":"Bunga Low","user_troop":"","table":"city"}
 {"city_id":"49","user_id":"6","city":"Harlem","city_time":"2015-07-28 17:10:13","city_desc":"Troop + Proficiency Lv 18","user_display":"Bunga Low","user_troop":"","table":"city"}
 {"city_id":"50","user_id":"2","city":"First","city_time":"2015-07-29 00:57:23","city_desc":"Troop + Zoning + Construction Lv 22","user_display":"Trooper","user_troop":"","table":"city"}
-{"city_id":"51","user_id":"2","city":"Greenwich","city_time":"2015-07-27 21:38:57","city_desc":"Troop + Steelwork Lv 20","user_display":"Trooper","user_troop":"","table":"city"}
+{"city_id":"51","user_id":"2","city":"Greenwich","city_time":"2015-07-28 22:06:11","city_desc":"Troop + Steelwork Lv 20","user_display":"Trooper","user_troop":"","table":"city"}
 {"city_id":"52","user_id":"2","city":"Brooklyn","city_time":"2015-07-28 19:32:13","city_desc":"Troop + Logistics Lv 23","user_display":"Trooper","user_troop":"","table":"city"}
 {"city_id":"53","user_id":"2","city":"Park","city_time":"2015-07-28 21:12:49","city_desc":"Troop + Cementing Lv 18","user_display":"Trooper","user_troop":"","table":"city"}
-{"city_id":"54","user_id":"2","city":"Atlantic","city_time":"2015-07-27 21:34:15","city_desc":"Troop + Shooting Range Lv 3","user_display":"Trooper","user_troop":"","table":"city"}
-{"city_id":"55","user_id":"2","city":"Chinatown","city_time":"2015-07-27 21:44:14","city_desc":"Troop + Haberdashery Lv 9","user_display":"Trooper","user_troop":"","table":"city"}
+{"city_id":"54","user_id":"2","city":"Atlantic","city_time":"2015-07-29 23:26:32","city_desc":"Troop + Shooting Range Lv 3","user_display":"Trooper","user_troop":"","table":"city"}
+{"city_id":"55","user_id":"2","city":"Chinatown","city_time":"2015-07-28 11:56:54","city_desc":"Troop + Haberdashery Lv 9","user_display":"Trooper","user_troop":"","table":"city"}
 {"city_id":"56","user_id":"2","city":"Doria","city_time":"2015-07-28 17:34:47","city_desc":"","user_display":"Trooper","user_troop":"","table":"city"}
-{"city_id":"57","user_id":"2","city":"Harlem","city_time":"2015-07-27 21:36:00","city_desc":"Troop + Workshop Lv 10 + Hideout Lv 10","user_display":"Trooper","user_troop":"","table":"city"}
+{"city_id":"57","user_id":"2","city":"Harlem","city_time":"2015-07-28 15:23:58","city_desc":"Troop + Workshop Lv 10 + Hideout Lv 10","user_display":"Trooper","user_troop":"","table":"city"}
