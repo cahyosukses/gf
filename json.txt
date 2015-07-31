@@ -32,10 +32,10 @@
 {"city_id":"25","user_id":"8","city":"Italy","city_time":"2015-08-02 20:32:57","city_desc":"Mansion Lv 9 + Assasin","user_display":"Don Comp","user_troop":"1 Bond<br \/>Black Widow","table":"city"}
 {"city_id":"26","user_id":"3","city":"First","city_time":"2015-07-31 08:50:35","city_desc":"Troop + Duke Palace Lv 9 + Research + Zoning","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"27","user_id":"3","city":"Greenwich","city_time":"2015-08-01 04:02:39","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"","table":"city"}
-{"city_id":"28","user_id":"3","city":"Brooklyn","city_time":"2015-07-31 01:02:55","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"","table":"city"}
-{"city_id":"29","user_id":"3","city":"Park","city_time":"2015-07-31 01:03:05","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"","table":"city"}
+{"city_id":"28","user_id":"3","city":"Brooklyn","city_time":"2015-07-31 17:32:58","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"","table":"city"}
+{"city_id":"29","user_id":"3","city":"Park","city_time":"2015-08-01 19:33:23","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"30","user_id":"3","city":"Atlantic","city_time":"2015-07-31 13:03:16","city_desc":"Troop + Shooting Range Lv 2 + Cementing Lv 20","user_display":"Cocout","user_troop":"","table":"city"}
-{"city_id":"31","user_id":"3","city":"Chinatown","city_time":"2015-07-31 01:03:26","city_desc":"Troop + Picalilly Lv 4 + Research","user_display":"Cocout","user_troop":"","table":"city"}
+{"city_id":"31","user_id":"3","city":"Chinatown","city_time":"2015-08-01 07:32:34","city_desc":"Troop + Picalilly Lv 4 + Research","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"32","user_id":"3","city":"Doria","city_time":"2015-07-31 13:04:00","city_desc":"Pants","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"33","user_id":"3","city":"Harlem","city_time":"2015-07-31 10:03:36","city_desc":"Troop + mini Hideout + Proficiency Lv 18","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"34","user_id":"7","city":"First","city_time":"2015-08-01 11:09:33","city_desc":"Troop + mini Hideout + Picalilly Lv 9 + Zoning","user_display":"Bunawas","user_troop":"","table":"city"}
