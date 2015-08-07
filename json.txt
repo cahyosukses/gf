@@ -52,7 +52,7 @@
 {"city_id":"45","user_id":"6","city":"Park","city_time":"2015-08-07 11:07:06","city_desc":"Troop + Logistics Lv 20","user_display":"Bunga Low","user_troop":"1 Bond","table":"city"}
 {"city_id":"46","user_id":"6","city":"Atlantic","city_time":"2015-08-07 22:30:26","city_desc":"Troop + Hospital Lv 5","user_display":"Bunga Low","user_troop":"1 Bond","table":"city"}
 {"city_id":"47","user_id":"6","city":"Chinatown","city_time":"2015-08-07 23:07:15","city_desc":"Troop + Hospital Lv 5 + Research","user_display":"Bunga Low","user_troop":"1 Bond","table":"city"}
-{"city_id":"48","user_id":"6","city":"Doria","city_time":"2015-08-07 07:00:39","city_desc":"Shirt + Weapon","user_display":"Bunga Low","user_troop":"1 Bond","table":"city"}
+{"city_id":"48","user_id":"6","city":"Doria","city_time":"2015-08-07 22:32:14","city_desc":"Shirt + Weapon","user_display":"Bunga Low","user_troop":"1 Bond","table":"city"}
 {"city_id":"49","user_id":"6","city":"Harlem","city_time":"2015-08-08 06:29:52","city_desc":"Troop + Proficiency Lv 18","user_display":"Bunga Low","user_troop":"1 Bond","table":"city"}
 {"city_id":"50","user_id":"2","city":"First","city_time":"2015-08-07 10:48:20","city_desc":"Troop + Zoning (2) + Construction Lv 22","user_display":"Trooper","user_troop":"Thug","table":"city"}
 {"city_id":"51","user_id":"2","city":"Greenwich","city_time":"2015-08-08 09:20:57","city_desc":"Troop + Steelwork Lv 20","user_display":"Trooper","user_troop":"Thug","table":"city"}
