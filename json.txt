@@ -19,7 +19,7 @@
 {"city_id":"12","user_id":"5","city":"Park","city_time":"2015-08-14 06:02:33","city_desc":"Troop + Steelwork Lv 20","user_display":"Kepetet","user_troop":"4 Bond<br \/>Black Widow","table":"city"}
 {"city_id":"13","user_id":"5","city":"Atlantic","city_time":"2015-08-15 14:53:57","city_desc":"Troop + Picalilly Lv 1 + Logistics Lv 20","user_display":"Kepetet","user_troop":"4 Bond<br \/>Black Widow","table":"city"}
 {"city_id":"14","user_id":"5","city":"Chinatown","city_time":"2015-08-14 13:54:19","city_desc":"Troop + Hospital Lv 4 + Logistics Lv 20","user_display":"Kepetet","user_troop":"4 Bond<br \/>Black Widow","table":"city"}
-{"city_id":"15","user_id":"5","city":"Doria","city_time":"2015-08-14 06:03:16","city_desc":"Pants + Hat","user_display":"Kepetet","user_troop":"4 Bond<br \/>Black Widow","table":"city"}
+{"city_id":"15","user_id":"5","city":"Doria","city_time":"2015-08-15 08:58:10","city_desc":"Ring + Shirt","user_display":"Kepetet","user_troop":"4 Bond<br \/>Black Widow","table":"city"}
 {"city_id":"16","user_id":"5","city":"Harlem","city_time":"2015-08-14 21:20:57","city_desc":"Troop + Logistics Lv 19","user_display":"Kepetet","user_troop":"4 Bond<br \/>Black Widow","table":"city"}
 {"city_id":"17","user_id":"3","city":"First","city_time":"2015-08-15 01:41:08","city_desc":"Troop + Picalilly Lv 4 + Construction Lv 22 + Zoning","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"18","user_id":"3","city":"Greenwich","city_time":"2015-08-15 22:22:41","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"","table":"city"}
