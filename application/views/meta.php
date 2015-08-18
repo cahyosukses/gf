@@ -10,7 +10,7 @@
 	.right { text-align: right; }
 	.clear { clear: both; }
 	
-	body { font-size: 12px; }
+	body { font-size: 12px; background: #DDDDDD; }
 	.cnt-user .User .Display { float: left; width: 100px; padding: 2px 0 0 0; }
 	.cnt-user .User .Time { float: left; width: 200px; padding: 2px 0 0 0; }
 	.cnt-user .User .Message { float: left; width: 450px; padding: 2px 0 0 0; }
