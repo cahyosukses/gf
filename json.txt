@@ -5,21 +5,21 @@
 {"table":"user","user_id":"6","user_power":"2380984","user_troop":""}
 {"table":"user","user_id":"7","user_power":"2461410","user_troop":""}
 {"table":"user","user_id":"2","user_power":"2709929","user_troop":""}
-{"city_id":"1","user_id":"4","city":"First","city_time":"2015-08-19 05:51:00","city_desc":"Troop + Duke Palace Lv 4 + Spying Lv 23 + John Doe 13.906","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
-{"city_id":"2","user_id":"4","city":"Greenwich","city_time":"2015-08-19 00:19:59","city_desc":"Troop + Logistics Lv 21","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
-{"city_id":"3","user_id":"4","city":"Brooklyn","city_time":"2015-08-19 01:23:04","city_desc":"Troop + Logistics Lv 21","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
-{"city_id":"4","user_id":"4","city":"Park","city_time":"2015-08-19 00:12:30","city_desc":"Troop + Logistics Lv 21","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
+{"city_id":"1","user_id":"4","city":"First","city_time":"2015-08-19 12:54:22","city_desc":"Troop + Duke Palace Lv 4 + Spying Lv 23 + John Doe 13.906","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
+{"city_id":"2","user_id":"4","city":"Greenwich","city_time":"2015-08-20 18:14:57","city_desc":"Troop + Logistics Lv 21","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
+{"city_id":"3","user_id":"4","city":"Brooklyn","city_time":"2015-08-20 23:45:32","city_desc":"Troop + Logistics Lv 21","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
+{"city_id":"4","user_id":"4","city":"Park","city_time":"2015-08-20 20:15:52","city_desc":"Troop + Logistics Lv 21","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"5","user_id":"4","city":"Atlantic","city_time":"2015-08-19 08:41:33","city_desc":"Troop + Pearson Gym Lv 3 + Cooking Lv 19","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
-{"city_id":"6","user_id":"4","city":"Chinatown","city_time":"2015-08-19 04:41:54","city_desc":"Troop + Black Market Lv 3 + Spying Lv 19","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
+{"city_id":"6","user_id":"4","city":"Chinatown","city_time":"2015-08-19 11:41:01","city_desc":"Troop + Black Market Lv 3 + Spying Lv 19","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"7","user_id":"4","city":"Doria","city_time":"2015-08-19 14:54:15","city_desc":"Ring","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
-{"city_id":"8","user_id":"4","city":"Harlem","city_time":"2015-08-19 00:48:01","city_desc":"Troop + Logistics Lv 18","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
+{"city_id":"8","user_id":"4","city":"Harlem","city_time":"2015-08-19 14:57:10","city_desc":"Troop + Logistics Lv 18","user_display":"Donkey G","user_troop":"Black Widow","table":"city"}
 {"city_id":"9","user_id":"5","city":"First","city_time":"2015-08-19 02:30:21","city_desc":"Troop + Black Market Lv 4 + Construction Lv 21 + Zoning","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
-{"city_id":"10","user_id":"5","city":"Greenwich","city_time":"2015-08-19 06:25:39","city_desc":"Troop + Logistics Lv 21","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
+{"city_id":"10","user_id":"5","city":"Greenwich","city_time":"2015-08-19 21:55:23","city_desc":"Troop + Logistics Lv 21","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"11","user_id":"5","city":"Brooklyn","city_time":"2015-08-19 20:39:36","city_desc":"Troop + Logistics Lv 21","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
-{"city_id":"12","user_id":"5","city":"Park","city_time":"2015-08-19 02:26:07","city_desc":"Troop + Steelwork Lv 20","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
+{"city_id":"12","user_id":"5","city":"Park","city_time":"2015-08-19 21:55:47","city_desc":"Troop + Steelwork Lv 20","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"13","user_id":"5","city":"Atlantic","city_time":"2015-08-19 16:29:06","city_desc":"Troop + Picalilly Lv 1 + Logistics Lv 20","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"14","user_id":"5","city":"Chinatown","city_time":"2015-08-19 16:31:29","city_desc":"Troop + Hospital Lv 4 + Logistics Lv 20","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
-{"city_id":"15","user_id":"5","city":"Doria","city_time":"2015-08-18 23:30:51","city_desc":"Ring + Shirt","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
+{"city_id":"15","user_id":"5","city":"Doria","city_time":"2015-08-20 00:44:56","city_desc":"Shirt","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"16","user_id":"5","city":"Harlem","city_time":"2015-08-19 17:57:18","city_desc":"Troop + Logistics Lv 19","user_display":"Kepetet","user_troop":"Black Widow","table":"city"}
 {"city_id":"17","user_id":"3","city":"First","city_time":"2015-08-19 06:34:49","city_desc":"Troop + Picalilly Lv 4 + Construction Lv 22 + Zoning","user_display":"Cocout","user_troop":"","table":"city"}
 {"city_id":"18","user_id":"3","city":"Greenwich","city_time":"2015-08-19 07:30:39","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"","table":"city"}
