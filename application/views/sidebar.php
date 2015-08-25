@@ -32,7 +32,7 @@
 		Build<br />
 	</div>
 	<div style="padding: 0 0 25px 0;">
-		Crew Ranking #16 - 1.000.000
+		Buat perhitungan setelah power diatas 30 jt
 	</div>
 </div>
 
