@@ -32,7 +32,8 @@
 		Build<br />
 	</div>
 	<div style="padding: 0 0 25px 0;">
-		Buat perhitungan setelah power diatas 30 jt
+		Buat perhitungan setelah power diatas 30 jt<br />
+		100K Thug
 	</div>
 </div>
 
