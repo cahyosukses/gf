@@ -22,7 +22,7 @@
 	<div style="padding: 0 0 25px 0;">Penthouse Box max 175, power lebih utama</div>
 	<div style="padding: 0 0 25px 0;">Murder Inc Lv 1<br />700 Assassin + 70 Black Widow + 70 Transport</div>
 	<div style="padding: 0 0 25px 0;">Murder Inc Lv 2<br />10000 DRC + 1000 Crooked Cop + 150 Thug + 500 Transport</div>
-	<div style="padding: 0 0 25px 0;">Murder Inc Lv 3<br />10000 DRC + 1000 Crooked Cop + 200 Thug + 500 Transport</div>
+	<div style="padding: 0 0 25px 0;">Murder Inc Lv 3<br />10000 DRC + 1000 Crooked Cop + 175 Thug + 500 Transport</div>
 	<div style="padding: 0 0 25px 0;">
 		Attack ISB<br />
 		Daily Token<br />
