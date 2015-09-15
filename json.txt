@@ -19,9 +19,9 @@
 {"city_id":"12","user_id":"8","city":"Park","city_time":"2015-09-16 06:40:22","city_desc":"Troop + Steelwork Lv 20 + Resource","user_display":"Don Comp","user_troop":"","table":"city"}
 {"city_id":"13","user_id":"8","city":"Atlantic","city_time":"2015-09-16 15:41:04","city_desc":"Troop + Morgue Lv 4 + Haberdashery Lv 3 + Logistics Lv 19 + Resource","user_display":"Don Comp","user_troop":"","table":"city"}
 {"city_id":"14","user_id":"8","city":"Chinatown","city_time":"2015-09-16 02:43:33","city_desc":"Troop + Morgue Lv 4 + Haberdashery Lv 3 + Resource","user_display":"Don Comp","user_troop":"","table":"city"}
-{"city_id":"15","user_id":"8","city":"Doria","city_time":"2015-09-15 07:23:49","city_desc":"Building","user_display":"Don Comp","user_troop":"","table":"city"}
+{"city_id":"15","user_id":"8","city":"Doria","city_time":"2015-09-18 21:19:58","city_desc":"Building","user_display":"Don Comp","user_troop":"","table":"city"}
 {"city_id":"16","user_id":"8","city":"Harlem","city_time":"2015-09-15 18:43:51","city_desc":"Troop + Resource","user_display":"Don Comp","user_troop":"","table":"city"}
-{"city_id":"17","user_id":"8","city":"Italy","city_time":"2015-09-15 00:42:56","city_desc":"Troop + Workshop Lv 10 + Spying Lv 16 + Resource","user_display":"Don Comp","user_troop":"","table":"city"}
+{"city_id":"17","user_id":"8","city":"Italy","city_time":"2015-09-16 15:31:37","city_desc":"Troop + Workshop Lv 10 + Spying Lv 16 + Resource","user_display":"Don Comp","user_troop":"","table":"city"}
 {"city_id":"18","user_id":"4","city":"First","city_time":"2015-09-16 05:06:32","city_desc":"Troop + Morgue Lv 5 + Spying Lv 23 + Trap","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"19","user_id":"4","city":"Greenwich","city_time":"2015-09-16 03:05:42","city_desc":"Troop + Logistics Lv 21 + Trap + 20 Courier","user_display":"Donkey G","user_troop":"","table":"city"}
 {"city_id":"20","user_id":"4","city":"Brooklyn","city_time":"2015-09-16 04:14:35","city_desc":"Troop + Logistics Lv 21 + Trap","user_display":"Donkey G","user_troop":"","table":"city"}
