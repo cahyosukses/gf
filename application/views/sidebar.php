@@ -33,7 +33,14 @@
 	</div>
 	<div style="padding: 0 0 25px 0;">
 		Buat perhitungan setelah power diatas 30 jt<br />
-		100K Thug
+		Attack Troop : 4500 & Meat Troop : 8000<br /><br />
+		First Neighborhood : 133 / 34<br />
+		Greenwich : 131 / 38<br />
+		Brooklyn : 133 / 36<br />
+		Park Ave : 135 / 36<br />
+		Atlantic : 134 / 38<br />
+		Chinatown : 135 / 32<br />
+		Harlem : 134 / 29<br />
 	</div>
 </div>
 
