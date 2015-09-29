@@ -43,7 +43,7 @@
 {"city_id":"36","user_id":"3","city":"Brooklyn","city_time":"2015-09-30 22:10:39","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"51 - 34","table":"city"}
 {"city_id":"37","user_id":"3","city":"Park","city_time":"2015-09-30 15:40:52","city_desc":"Troop + Logistics Lv 23","user_display":"Cocout","user_troop":"51 - 34","table":"city"}
 {"city_id":"38","user_id":"3","city":"Atlantic","city_time":"2015-09-29 19:41:09","city_desc":"Troop + Headquaters Lv 4","user_display":"Cocout","user_troop":"51 - 34","table":"city"}
-{"city_id":"39","user_id":"3","city":"Chinatown","city_time":"2015-09-29 15:41:42","city_desc":"Troop + Haberdashery Lv 2 + Cementing Lv 19","user_display":"Cocout","user_troop":"51 - 34","table":"city"}
+{"city_id":"39","user_id":"3","city":"Chinatown","city_time":"2015-09-30 01:13:21","city_desc":"Troop + Haberdashery Lv 2 + Cementing Lv 19","user_display":"Cocout","user_troop":"51 - 34","table":"city"}
 {"city_id":"40","user_id":"3","city":"Doria","city_time":"2015-09-30 20:55:37","city_desc":"Building","user_display":"Cocout","user_troop":"51 - 34","table":"city"}
 {"city_id":"41","user_id":"3","city":"Harlem","city_time":"2015-09-30 16:05:42","city_desc":"Troop + Proficiency Lv 18","user_display":"Cocout","user_troop":"51 - 34","table":"city"}
 {"city_id":"42","user_id":"5","city":"First","city_time":"2015-09-29 21:00:39","city_desc":"Troop + Pearson Gym Lv 2 + Construction Lv 21 + Zoning","user_display":"Kepetet","user_troop":"65 - 20","table":"city"}
@@ -57,7 +57,7 @@
 {"city_id":"50","user_id":"2","city":"First","city_time":"2015-10-01 09:08:17","city_desc":"Troop + Zoning (2) + Construction Lv 22 + Resource","user_display":"Trooper","user_troop":"45 - 37","table":"city"}
 {"city_id":"51","user_id":"2","city":"Greenwich","city_time":"2015-09-30 14:52:38","city_desc":"Troop + Capacity Lv 18","user_display":"Trooper","user_troop":"45 - 37","table":"city"}
 {"city_id":"52","user_id":"2","city":"Brooklyn","city_time":"2015-10-01 06:09:43","city_desc":"Troop + Logistics Lv 23","user_display":"Trooper","user_troop":"45 - 37","table":"city"}
-{"city_id":"53","user_id":"2","city":"Park","city_time":"2015-09-29 15:38:48","city_desc":"Troop + Coruption Lv 18","user_display":"Trooper","user_troop":"45 - 37","table":"city"}
+{"city_id":"53","user_id":"2","city":"Park","city_time":"2015-09-30 03:16:09","city_desc":"Troop + Coruption Lv 18","user_display":"Trooper","user_troop":"45 - 37","table":"city"}
 {"city_id":"54","user_id":"2","city":"Atlantic","city_time":"2015-09-30 11:23:53","city_desc":"Troop + Capacity Lv 19","user_display":"Trooper","user_troop":"45 - 37","table":"city"}
 {"city_id":"55","user_id":"2","city":"Chinatown","city_time":"2015-09-30 10:24:12","city_desc":"Troop + Morgue Lv 3 + Research","user_display":"Trooper","user_troop":"45 - 37","table":"city"}
 {"city_id":"56","user_id":"2","city":"Doria","city_time":"2015-10-01 05:37:09","city_desc":" Building","user_display":"Trooper","user_troop":"45 - 37","table":"city"}
