@@ -110,7 +110,7 @@ $autoload['language'] = array();
 */
 
 $autoload['model'] = array(
-	'City_model', 'User_model'
+	'City_model', 'User_model', 'faucet_model'
 );
 
 /* End of file autoload.php */

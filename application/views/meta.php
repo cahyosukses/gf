@@ -1,5 +1,8 @@
+<?php
+	$page_title = (isset($page_title)) ? $page_title : 'God Father';
+?>
 <head>
-	<title>God Father</title>
+	<title><?php echo $page_title; ?></title>
 	<meta http-equiv="refresh" content="300">
 	<script type="text/javascript">var Host = { Link: '<?php echo $this->config->item('base_url'); ?>' }</script>
 	<script type="text/javascript" src="static/jquery/jquery.min.js"></script>

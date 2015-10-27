@@ -266,7 +266,7 @@ if (! function_exists('GenerateUpdateQuery')) {
                 }
                 
 				$StringQuery .= (empty($StringQuery)) ? '' : ', ';
-				$StringQuery .= "$Column = '" . mysql_escape_string($Value) . "'";
+				$StringQuery .= "$Column = '" . mysql_real_escape_string($Value) . "'";
 			}
 		}
 		$Query = "UPDATE `$Table` SET $StringQuery WHERE " . $ArrayField[0] . " = '" . $ArrayParam[$ArrayField[0]] . "'";

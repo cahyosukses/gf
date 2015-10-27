@@ -166,4 +166,13 @@ if (! function_exists('GetFormatDate')) {
 		return date($Param['FormatDate'], strtotime($String));
 	}
 }
-?>
+
+if (! function_exists('AddDate')) {
+	function AddDate($date, $date_count) {
+		$temp_date = date_create($date);
+		date_add($temp_date, date_interval_create_from_date_string($date_count));
+		$result = date_format($temp_date, 'Y-m-d H:i:s');
+		
+		return $result;
+	}
+}
