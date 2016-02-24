@@ -6,6 +6,9 @@
 <div class="cnt-user">
 	<?php $Last = array('User' => ''); ?>
 	<?php foreach ($ArrayCity as $Key => $Array) { ?>
+		<?php if ($Array['user_id'] != 2) { ?>
+			<?php continue; ?>
+		<?php } ?>
 		<div class="User">
 			<div class="hidden"><?php echo json_encode($Array); ?></div>
 			<div class="Display" style="position: relative;">
